@@ -1,0 +1,825 @@
+Yas,Cinsiyet,Kurum,Ev_icerisindeki_gün_sayisi,Stres_buyuyor_mu,Karantinaolumsuzluklari,Aliskanliklarda_degisim,Zihinsel_saglik_gecmisi,Kilo_degiskligi,Ruh_hali_degisiklikleri,Mucadelelerde_basa_cikma,ise_karsi_olan_ilgi,Sosyal_zayiflik
+20-25,Dişi,Kurumsal,1-14 gün,Evet,Evet,HAYIR,Evet,Evet,Orta,HAYIR,HAYIR,Evet
+30-,Erkek,Diğerleri,31-60 gün,Evet,Evet,Belki,HAYIR,HAYIR,Yüksek,HAYIR,HAYIR,Evet
+30-,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Orta,Evet,Belki,HAYIR
+25-30,Erkek,Diğerleri,1-14 gün,Evet,HAYIR,Belki,HAYIR,Belki,Orta,HAYIR,Belki,Evet
+16-20,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,Evet,HAYIR,Evet,Orta,Evet,Belki,HAYIR
+25-30,Erkek,Ev hanımı,2 aydan fazla,HAYIR,Evet,Evet,Evet,Evet,Orta,HAYIR,Belki,Belki
+16-20,Dişi,İşletme,Her gün dışarı çık,Evet,Evet,Belki,HAYIR,Evet,Düşük,HAYIR,Belki,Belki
+25-30,Dişi,Öğrenci,1-14 gün,Evet,HAYIR,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Evet
+30-,Erkek,Diğerleri,Her gün dışarı çık,Evet,Evet,Evet,HAYIR,Evet,Orta,Evet,Belki,Belki
+20-25,Erkek,Kurumsal,Her gün dışarı çık,Belki,Belki,Evet,Evet,Evet,Düşük,HAYIR,Belki,HAYIR
+16-20,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,HAYIR,Belki,HAYIR,Düşük,HAYIR,Belki,Evet
+30-,Dişi,İşletme,2 aydan fazla,Evet,Evet,HAYIR,HAYIR,Evet,Yüksek,HAYIR,HAYIR,Belki
+25-30,Erkek,Diğerleri,15-30 gün,Belki,Evet,HAYIR,Evet,Evet,Orta,HAYIR,Belki,HAYIR
+30-,Dişi,Ev hanımı,15-30 gün,Evet,Evet,Evet,HAYIR,HAYIR,Düşük,Evet,HAYIR,Belki
+30-,Dişi,Ev hanımı,1-14 gün,HAYIR,HAYIR,HAYIR,Belki,Belki,Orta,HAYIR,HAYIR,Belki
+16-20,Erkek,Kurumsal,2 aydan fazla,HAYIR,HAYIR,Belki,Evet,Belki,Orta,HAYIR,HAYIR,Belki
+16-20,Dişi,Öğrenci,1-14 gün,Evet,Evet,Belki,HAYIR,Evet,Orta,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Diğerleri,2 aydan fazla,Evet,Evet,Belki,Belki,Belki,Orta,Evet,Belki,Evet
+30-,Erkek,Öğrenci,31-60 gün,Belki,HAYIR,Belki,HAYIR,Evet,Orta,Evet,Evet,Belki
+16-20,Dişi,Öğrenci,1-14 gün,Evet,Evet,Evet,HAYIR,Evet,Yüksek,HAYIR,Evet,Belki
+30-,Dişi,Ev hanımı,Her gün dışarı çık,HAYIR,Belki,HAYIR,HAYIR,Belki,Orta,Evet,Evet,Belki
+16-20,Erkek,Ev hanımı,15-30 gün,HAYIR,Belki,HAYIR,Evet,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+30-,Dişi,Öğrenci,31-60 gün,Evet,Belki,HAYIR,Belki,HAYIR,Orta,Evet,HAYIR,Belki
+16-20,Dişi,Öğrenci,1-14 gün,HAYIR,Evet,Belki,Evet,HAYIR,Düşük,HAYIR,Evet,Evet
+20-25,Dişi,İşletme,2 aydan fazla,Belki,HAYIR,Belki,HAYIR,Evet,Orta,Evet,Evet,HAYIR
+30-,Dişi,Ev hanımı,1-14 gün,Evet,Belki,Belki,Evet,Evet,Düşük,Evet,Belki,Evet
+30-,Erkek,Öğrenci,15-30 gün,Evet,Belki,HAYIR,Belki,Belki,Orta,HAYIR,Evet,Belki
+20-25,Erkek,Öğrenci,1-14 gün,Evet,HAYIR,Belki,HAYIR,Belki,Yüksek,Evet,Belki,HAYIR
+20-25,Dişi,Diğerleri,1-14 gün,Evet,Evet,Belki,Belki,Evet,Yüksek,Evet,HAYIR,Evet
+30-,Dişi,Öğrenci,31-60 gün,HAYIR,Evet,HAYIR,Evet,HAYIR,Düşük,HAYIR,HAYIR,Belki
+30-,Erkek,İşletme,2 aydan fazla,Evet,Belki,HAYIR,Belki,Belki,Orta,HAYIR,Belki,Evet
+30-,Dişi,Kurumsal,Her gün dışarı çık,Belki,Belki,HAYIR,Belki,Belki,Orta,HAYIR,HAYIR,Evet
+25-30,Dişi,İşletme,1-14 gün,Evet,HAYIR,HAYIR,HAYIR,Evet,Orta,HAYIR,HAYIR,Belki
+20-25,Dişi,İşletme,15-30 gün,Belki,Evet,HAYIR,HAYIR,HAYIR,Düşük,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Öğrenci,Her gün dışarı çık,Belki,HAYIR,Belki,Evet,Belki,Yüksek,Evet,HAYIR,Evet
+16-20,Erkek,İşletme,31-60 gün,Evet,Evet,Belki,HAYIR,Belki,Orta,HAYIR,Evet,Evet
+20-25,Erkek,Kurumsal,15-30 gün,Evet,Evet,Evet,HAYIR,Belki,Düşük,Evet,HAYIR,Belki
+16-20,Erkek,Kurumsal,15-30 gün,Evet,Evet,Belki,HAYIR,Belki,Orta,HAYIR,Belki,Belki
+25-30,Dişi,Diğerleri,31-60 gün,Evet,Evet,Belki,Evet,HAYIR,Yüksek,Evet,Evet,HAYIR
+30-,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Belki,HAYIR,Belki,Belki,Yüksek,Evet,Evet,Evet
+30-,Dişi,İşletme,31-60 gün,HAYIR,HAYIR,Belki,HAYIR,HAYIR,Düşük,Evet,HAYIR,Belki
+30-,Dişi,Kurumsal,Her gün dışarı çık,Evet,Belki,HAYIR,Belki,Evet,Düşük,Evet,HAYIR,HAYIR
+25-30,Dişi,Ev hanımı,31-60 gün,Evet,HAYIR,HAYIR,Belki,Evet,Orta,HAYIR,Evet,HAYIR
+20-25,Erkek,Öğrenci,2 aydan fazla,HAYIR,Belki,Belki,HAYIR,Evet,Yüksek,HAYIR,Evet,Evet
+20-25,Dişi,İşletme,31-60 gün,Evet,Evet,HAYIR,Evet,HAYIR,Düşük,Evet,Belki,Belki
+20-25,Dişi,Kurumsal,Her gün dışarı çık,Belki,Evet,Evet,Belki,Evet,Yüksek,HAYIR,Belki,HAYIR
+20-25,Erkek,Ev hanımı,15-30 gün,Evet,HAYIR,Belki,HAYIR,HAYIR,Orta,HAYIR,Belki,Evet
+25-30,Dişi,Öğrenci,2 aydan fazla,Evet,HAYIR,HAYIR,Belki,Evet,Orta,HAYIR,HAYIR,Evet
+20-25,Erkek,Öğrenci,1-14 gün,Belki,Evet,Evet,Belki,Evet,Yüksek,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,Evet,HAYIR,Belki,Düşük,Evet,Belki,HAYIR
+25-30,Dişi,Öğrenci,15-30 gün,Belki,Evet,Evet,Evet,Evet,Yüksek,Evet,HAYIR,HAYIR
+30-,Dişi,Öğrenci,2 aydan fazla,Belki,HAYIR,Belki,HAYIR,Belki,Düşük,Evet,Belki,Evet
+16-20,Erkek,Diğerleri,2 aydan fazla,Evet,Evet,Evet,Evet,Belki,Düşük,Evet,HAYIR,HAYIR
+30-,Erkek,Diğerleri,31-60 gün,HAYIR,Evet,HAYIR,Evet,Belki,Düşük,Evet,Belki,HAYIR
+30-,Erkek,Diğerleri,2 aydan fazla,Belki,HAYIR,Evet,HAYIR,Belki,Yüksek,HAYIR,Evet,HAYIR
+16-20,Dişi,Kurumsal,Her gün dışarı çık,HAYIR,Evet,HAYIR,Evet,HAYIR,Orta,HAYIR,Belki,HAYIR
+16-20,Erkek,Öğrenci,Her gün dışarı çık,Belki,Belki,HAYIR,Belki,Belki,Yüksek,Evet,Evet,Belki
+25-30,Erkek,Diğerleri,1-14 gün,Belki,Belki,Evet,Evet,Evet,Düşük,HAYIR,HAYIR,Belki
+30-,Erkek,Diğerleri,1-14 gün,HAYIR,Belki,HAYIR,Evet,Belki,Düşük,HAYIR,HAYIR,HAYIR
+20-25,Erkek,Öğrenci,31-60 gün,Belki,HAYIR,HAYIR,Evet,Belki,Düşük,Evet,Belki,Evet
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,HAYIR,Evet,Belki,Belki,Belki,Düşük,HAYIR,Belki,HAYIR
+25-30,Erkek,Kurumsal,15-30 gün,Belki,Belki,HAYIR,HAYIR,Evet,Orta,Evet,Evet,HAYIR
+20-25,Dişi,İşletme,2 aydan fazla,HAYIR,HAYIR,Belki,Belki,HAYIR,Düşük,HAYIR,HAYIR,Evet
+16-20,Erkek,Öğrenci,Her gün dışarı çık,Evet,Evet,HAYIR,Belki,Evet,Yüksek,Evet,Belki,Evet
+30-,Erkek,Ev hanımı,15-30 gün,Belki,Belki,Evet,Evet,Evet,Düşük,HAYIR,Evet,HAYIR
+30-,Erkek,İşletme,2 aydan fazla,Belki,HAYIR,Belki,Belki,Evet,Düşük,HAYIR,Belki,HAYIR
+25-30,Dişi,Diğerleri,2 aydan fazla,Evet,Evet,HAYIR,HAYIR,Belki,Orta,Evet,Belki,Evet
+25-30,Dişi,Kurumsal,1-14 gün,Evet,Evet,Belki,Belki,Evet,Orta,Evet,Belki,Evet
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Evet,HAYIR,Belki,HAYIR,Yüksek,Evet,HAYIR,Belki
+25-30,Erkek,Ev hanımı,31-60 gün,Belki,Evet,HAYIR,Belki,Belki,Düşük,HAYIR,HAYIR,HAYIR
+30-,Erkek,Ev hanımı,2 aydan fazla,Belki,HAYIR,HAYIR,Belki,HAYIR,Orta,HAYIR,HAYIR,Evet
+25-30,Erkek,Kurumsal,Her gün dışarı çık,Belki,Evet,Belki,Belki,HAYIR,Düşük,Evet,Belki,HAYIR
+25-30,Dişi,Kurumsal,2 aydan fazla,Evet,HAYIR,Belki,Belki,Belki,Düşük,Evet,HAYIR,Belki
+16-20,Erkek,Kurumsal,31-60 gün,HAYIR,Belki,Evet,Belki,HAYIR,Orta,HAYIR,HAYIR,Evet
+25-30,Dişi,Ev hanımı,15-30 gün,HAYIR,Belki,Evet,HAYIR,Belki,Yüksek,Evet,HAYIR,HAYIR
+20-25,Dişi,İşletme,31-60 gün,Evet,Belki,Evet,Belki,Belki,Düşük,Evet,Evet,Evet
+30-,Dişi,Ev hanımı,15-30 gün,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Yüksek,HAYIR,Evet,Belki
+30-,Dişi,Kurumsal,31-60 gün,Belki,HAYIR,Belki,HAYIR,Belki,Yüksek,HAYIR,Belki,HAYIR
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Evet,Belki,Evet,HAYIR,Yüksek,HAYIR,Evet,HAYIR
+30-,Erkek,İşletme,31-60 gün,Evet,Evet,Belki,HAYIR,Evet,Orta,Evet,Belki,Belki
+25-30,Dişi,Ev hanımı,1-14 gün,Evet,Belki,HAYIR,Evet,HAYIR,Düşük,Evet,HAYIR,HAYIR
+30-,Dişi,Kurumsal,2 aydan fazla,Evet,HAYIR,Evet,HAYIR,Belki,Orta,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Öğrenci,15-30 gün,Evet,Belki,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Belki
+30-,Erkek,Kurumsal,2 aydan fazla,Belki,Belki,Evet,Belki,HAYIR,Orta,HAYIR,Evet,Belki
+30-,Dişi,Kurumsal,31-60 gün,Evet,HAYIR,Belki,Belki,Evet,Yüksek,HAYIR,Evet,Belki
+16-20,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,Belki,Evet,Belki,HAYIR,Düşük,HAYIR,Belki,Evet
+20-25,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Belki,HAYIR,HAYIR,HAYIR,Düşük,HAYIR,Belki,Evet
+25-30,Dişi,Diğerleri,31-60 gün,Belki,HAYIR,Belki,Belki,HAYIR,Yüksek,Evet,Evet,Evet
+25-30,Erkek,Diğerleri,15-30 gün,Evet,Belki,Evet,Belki,Evet,Yüksek,HAYIR,HAYIR,Belki
+30-,Dişi,İşletme,15-30 gün,Belki,Belki,Evet,HAYIR,Belki,Yüksek,Evet,Evet,Evet
+30-,Dişi,Ev hanımı,15-30 gün,HAYIR,Belki,Evet,Evet,Belki,Orta,Evet,HAYIR,Belki
+16-20,Erkek,Ev hanımı,1-14 gün,HAYIR,Belki,HAYIR,Belki,HAYIR,Orta,HAYIR,Evet,HAYIR
+30-,Dişi,Ev hanımı,1-14 gün,Belki,Belki,Evet,HAYIR,HAYIR,Düşük,Evet,Belki,HAYIR
+20-25,Dişi,Ev hanımı,15-30 gün,Evet,HAYIR,Belki,Evet,Belki,Orta,HAYIR,Evet,HAYIR
+25-30,Dişi,Diğerleri,31-60 gün,HAYIR,Evet,Evet,Belki,HAYIR,Orta,HAYIR,HAYIR,Belki
+16-20,Dişi,Ev hanımı,31-60 gün,Belki,Belki,HAYIR,Evet,Evet,Yüksek,HAYIR,Belki,Belki
+30-,Erkek,Kurumsal,Her gün dışarı çık,Belki,HAYIR,Belki,Evet,HAYIR,Yüksek,HAYIR,Belki,Evet
+16-20,Erkek,Öğrenci,Her gün dışarı çık,Evet,Belki,Evet,HAYIR,Belki,Yüksek,Evet,Evet,Belki
+30-,Dişi,Kurumsal,15-30 gün,Belki,Evet,Belki,HAYIR,Belki,Yüksek,Evet,Evet,HAYIR
+16-20,Erkek,Kurumsal,31-60 gün,HAYIR,HAYIR,Evet,Belki,Belki,Orta,Evet,Evet,Evet
+25-30,Dişi,İşletme,2 aydan fazla,Evet,Evet,HAYIR,Evet,HAYIR,Orta,HAYIR,Evet,Belki
+16-20,Erkek,Kurumsal,2 aydan fazla,HAYIR,Evet,Belki,Belki,HAYIR,Yüksek,Evet,Evet,HAYIR
+20-25,Dişi,Kurumsal,2 aydan fazla,Belki,Belki,Evet,HAYIR,Belki,Orta,Evet,Belki,Evet
+30-,Dişi,Kurumsal,15-30 gün,Evet,Belki,Evet,HAYIR,Belki,Düşük,Evet,Evet,Evet
+30-,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Evet,HAYIR,HAYIR,Belki,Yüksek,HAYIR,Belki,HAYIR
+20-25,Erkek,Öğrenci,Her gün dışarı çık,HAYIR,HAYIR,Evet,Evet,Evet,Orta,HAYIR,HAYIR,Belki
+16-20,Dişi,İşletme,2 aydan fazla,Evet,Belki,Evet,Belki,Evet,Düşük,HAYIR,Belki,Belki
+25-30,Erkek,Ev hanımı,15-30 gün,Evet,Belki,HAYIR,HAYIR,HAYIR,Düşük,HAYIR,Evet,Evet
+30-,Dişi,Diğerleri,15-30 gün,Belki,HAYIR,Evet,Evet,Evet,Düşük,Evet,HAYIR,Evet
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Evet,Evet,Belki,HAYIR,Yüksek,Evet,Evet,HAYIR
+16-20,Erkek,Diğerleri,1-14 gün,HAYIR,Belki,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Belki
+16-20,Erkek,İşletme,Her gün dışarı çık,Belki,HAYIR,Evet,HAYIR,Evet,Orta,Evet,HAYIR,Evet
+16-20,Erkek,Ev hanımı,31-60 gün,Evet,Evet,Evet,Evet,Belki,Düşük,HAYIR,HAYIR,Belki
+20-25,Erkek,Öğrenci,1-14 gün,Evet,Evet,Evet,HAYIR,HAYIR,Orta,HAYIR,Belki,Evet
+16-20,Dişi,İşletme,15-30 gün,Belki,HAYIR,Evet,HAYIR,Evet,Düşük,Evet,HAYIR,Evet
+25-30,Dişi,İşletme,Her gün dışarı çık,HAYIR,Evet,HAYIR,Evet,HAYIR,Düşük,Evet,Evet,HAYIR
+25-30,Dişi,Diğerleri,Her gün dışarı çık,Belki,HAYIR,Belki,HAYIR,HAYIR,Düşük,Evet,HAYIR,Evet
+16-20,Dişi,İşletme,1-14 gün,HAYIR,HAYIR,Belki,Evet,Belki,Yüksek,HAYIR,Evet,Evet
+16-20,Erkek,Diğerleri,2 aydan fazla,Evet,HAYIR,HAYIR,Belki,Evet,Düşük,Evet,HAYIR,HAYIR
+16-20,Dişi,Ev hanımı,2 aydan fazla,Evet,Evet,Evet,Belki,Belki,Orta,Evet,Evet,Belki
+30-,Erkek,Kurumsal,31-60 gün,Evet,HAYIR,Belki,Belki,Belki,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,Öğrenci,31-60 gün,Evet,Evet,Evet,HAYIR,Evet,Düşük,HAYIR,Evet,HAYIR
+16-20,Erkek,Kurumsal,2 aydan fazla,Evet,Evet,Belki,HAYIR,Belki,Yüksek,HAYIR,Belki,Belki
+30-,Erkek,Diğerleri,2 aydan fazla,HAYIR,HAYIR,HAYIR,HAYIR,HAYIR,Yüksek,HAYIR,Evet,HAYIR
+16-20,Dişi,Kurumsal,1-14 gün,Evet,Evet,Belki,Belki,HAYIR,Yüksek,HAYIR,Evet,Belki
+25-30,Dişi,Öğrenci,Her gün dışarı çık,Evet,Belki,Evet,Evet,Evet,Orta,Evet,Belki,Belki
+30-,Dişi,Öğrenci,1-14 gün,Evet,Belki,Evet,HAYIR,HAYIR,Düşük,Evet,HAYIR,Evet
+20-25,Dişi,İşletme,2 aydan fazla,Belki,HAYIR,Evet,Evet,HAYIR,Orta,Evet,Evet,HAYIR
+16-20,Erkek,İşletme,15-30 gün,Evet,Belki,Evet,Evet,Belki,Yüksek,Evet,Evet,HAYIR
+30-,Erkek,Öğrenci,31-60 gün,HAYIR,Evet,Belki,Evet,Evet,Düşük,HAYIR,HAYIR,Belki
+20-25,Dişi,Öğrenci,2 aydan fazla,Belki,HAYIR,HAYIR,HAYIR,HAYIR,Düşük,Evet,Evet,Evet
+20-25,Dişi,Öğrenci,31-60 gün,HAYIR,Belki,HAYIR,Evet,Evet,Yüksek,HAYIR,Evet,HAYIR
+16-20,Erkek,Öğrenci,15-30 gün,Belki,Evet,Evet,Evet,Belki,Yüksek,Evet,HAYIR,Evet
+30-,Erkek,Ev hanımı,31-60 gün,Evet,Belki,Belki,Belki,Belki,Düşük,Evet,Evet,Belki
+16-20,Erkek,Ev hanımı,2 aydan fazla,Belki,Evet,HAYIR,HAYIR,HAYIR,Düşük,Evet,Belki,HAYIR
+30-,Erkek,Öğrenci,Her gün dışarı çık,Evet,Belki,Evet,HAYIR,HAYIR,Orta,Evet,Belki,Evet
+20-25,Erkek,Diğerleri,31-60 gün,Belki,Evet,HAYIR,HAYIR,Evet,Orta,Evet,Belki,Evet
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Belki,Evet,Belki,Belki,HAYIR,Düşük,Evet,Evet,Evet
+20-25,Dişi,Öğrenci,15-30 gün,HAYIR,Evet,Belki,Belki,Evet,Düşük,HAYIR,Belki,Evet
+16-20,Dişi,Kurumsal,15-30 gün,HAYIR,HAYIR,Belki,HAYIR,HAYIR,Düşük,HAYIR,Evet,Evet
+16-20,Dişi,Ev hanımı,2 aydan fazla,HAYIR,Belki,HAYIR,Belki,Evet,Düşük,Evet,Evet,Belki
+25-30,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Yüksek,Evet,HAYIR,Evet
+25-30,Erkek,Ev hanımı,2 aydan fazla,Evet,HAYIR,Belki,Evet,Evet,Orta,Evet,Belki,Evet
+30-,Dişi,Öğrenci,15-30 gün,Belki,Belki,Belki,HAYIR,Belki,Orta,HAYIR,HAYIR,HAYIR
+25-30,Dişi,İşletme,15-30 gün,Evet,HAYIR,Belki,Belki,HAYIR,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Kurumsal,2 aydan fazla,Belki,Evet,Evet,Belki,HAYIR,Yüksek,HAYIR,Belki,Belki
+25-30,Erkek,Kurumsal,31-60 gün,HAYIR,Belki,Belki,HAYIR,HAYIR,Düşük,Evet,HAYIR,Belki
+30-,Erkek,Ev hanımı,1-14 gün,Evet,Evet,Evet,Evet,Belki,Düşük,Evet,Evet,Evet
+16-20,Dişi,İşletme,31-60 gün,HAYIR,Evet,HAYIR,Belki,HAYIR,Yüksek,HAYIR,Belki,Belki
+25-30,Dişi,Öğrenci,Her gün dışarı çık,Belki,Belki,Evet,Evet,Belki,Yüksek,Evet,Belki,HAYIR
+25-30,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,Evet,Evet,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+25-30,Erkek,Diğerleri,31-60 gün,Belki,Belki,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Belki
+16-20,Erkek,Kurumsal,15-30 gün,Evet,Belki,Evet,Evet,Belki,Düşük,Evet,Evet,HAYIR
+30-,Dişi,Diğerleri,31-60 gün,Belki,Belki,Evet,Belki,Belki,Düşük,Evet,Evet,HAYIR
+20-25,Erkek,Ev hanımı,1-14 gün,Evet,HAYIR,HAYIR,HAYIR,Evet,Düşük,HAYIR,Belki,Evet
+30-,Erkek,İşletme,31-60 gün,Belki,Belki,Evet,HAYIR,Evet,Düşük,Evet,Belki,HAYIR
+25-30,Erkek,Ev hanımı,Her gün dışarı çık,Evet,HAYIR,Evet,Evet,HAYIR,Yüksek,HAYIR,Evet,Evet
+30-,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Evet,Belki,Evet,Evet,Orta,HAYIR,Evet,Belki
+16-20,Dişi,İşletme,Her gün dışarı çık,Belki,Belki,Evet,Evet,Belki,Düşük,Evet,Evet,HAYIR
+20-25,Erkek,Diğerleri,1-14 gün,HAYIR,Belki,HAYIR,Evet,Evet,Düşük,HAYIR,Belki,HAYIR
+16-20,Erkek,Kurumsal,1-14 gün,Evet,Evet,HAYIR,Evet,Evet,Orta,Evet,Belki,Belki
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,Evet,Belki,Evet,Evet,Belki,Orta,HAYIR,Evet,Evet
+16-20,Dişi,Ev hanımı,31-60 gün,Belki,Belki,Evet,HAYIR,Evet,Yüksek,Evet,Belki,HAYIR
+25-30,Dişi,İşletme,Her gün dışarı çık,Evet,Evet,Belki,Belki,Evet,Düşük,Evet,HAYIR,HAYIR
+20-25,Dişi,Ev hanımı,1-14 gün,Evet,Evet,Evet,HAYIR,HAYIR,Yüksek,Evet,HAYIR,HAYIR
+25-30,Erkek,Öğrenci,31-60 gün,Belki,Evet,Evet,HAYIR,Belki,Orta,Evet,HAYIR,Evet
+25-30,Dişi,İşletme,Her gün dışarı çık,Evet,Evet,Belki,HAYIR,Evet,Düşük,Evet,Belki,Belki
+20-25,Erkek,İşletme,31-60 gün,HAYIR,Belki,Evet,Belki,HAYIR,Düşük,HAYIR,Belki,HAYIR
+20-25,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Evet,Evet,HAYIR,Evet,Yüksek,HAYIR,Belki,Belki
+30-,Erkek,Kurumsal,15-30 gün,Evet,Belki,HAYIR,HAYIR,Belki,Yüksek,Evet,Belki,HAYIR
+25-30,Erkek,Kurumsal,15-30 gün,Belki,Evet,HAYIR,HAYIR,Evet,Orta,HAYIR,HAYIR,Evet
+20-25,Erkek,Kurumsal,2 aydan fazla,Evet,Evet,Belki,Evet,Belki,Orta,HAYIR,HAYIR,Belki
+30-,Dişi,Ev hanımı,1-14 gün,Evet,Belki,Belki,Evet,Belki,Yüksek,HAYIR,HAYIR,Evet
+30-,Dişi,İşletme,Her gün dışarı çık,Belki,Evet,Evet,HAYIR,Belki,Düşük,HAYIR,Evet,HAYIR
+30-,Erkek,Ev hanımı,1-14 gün,HAYIR,Belki,HAYIR,Belki,Evet,Orta,Evet,Evet,HAYIR
+20-25,Erkek,Diğerleri,Her gün dışarı çık,HAYIR,Evet,Belki,Evet,HAYIR,Düşük,Evet,Belki,Belki
+25-30,Erkek,İşletme,Her gün dışarı çık,Belki,Evet,HAYIR,Evet,HAYIR,Düşük,Evet,Evet,HAYIR
+25-30,Dişi,Kurumsal,Her gün dışarı çık,Belki,HAYIR,Evet,Belki,Belki,Düşük,Evet,Evet,HAYIR
+16-20,Dişi,Ev hanımı,1-14 gün,HAYIR,Belki,Evet,Belki,Belki,Orta,HAYIR,HAYIR,Belki
+20-25,Dişi,Ev hanımı,15-30 gün,Evet,Belki,HAYIR,Belki,Belki,Düşük,Evet,HAYIR,Evet
+30-,Dişi,Kurumsal,1-14 gün,Evet,Evet,Belki,HAYIR,Belki,Orta,HAYIR,Evet,HAYIR
+25-30,Dişi,Diğerleri,2 aydan fazla,Belki,Evet,HAYIR,Evet,HAYIR,Düşük,HAYIR,Evet,HAYIR
+16-20,Erkek,Kurumsal,2 aydan fazla,Belki,Evet,Belki,Evet,Belki,Düşük,HAYIR,Belki,Evet
+16-20,Erkek,İşletme,2 aydan fazla,Evet,HAYIR,Evet,Belki,Belki,Orta,HAYIR,Belki,Belki
+16-20,Dişi,Öğrenci,1-14 gün,HAYIR,Evet,Evet,Belki,HAYIR,Düşük,Evet,Belki,Belki
+25-30,Erkek,Diğerleri,1-14 gün,Belki,Evet,Belki,Evet,Belki,Orta,Evet,Evet,Belki
+20-25,Dişi,Kurumsal,1-14 gün,HAYIR,Belki,Evet,Belki,Belki,Yüksek,Evet,Evet,HAYIR
+20-25,Dişi,Diğerleri,31-60 gün,Belki,Belki,Evet,Evet,HAYIR,Yüksek,HAYIR,Belki,Evet
+30-,Dişi,Kurumsal,31-60 gün,Evet,Evet,Evet,Belki,Belki,Orta,Evet,Evet,HAYIR
+30-,Erkek,Diğerleri,Her gün dışarı çık,HAYIR,HAYIR,Evet,HAYIR,Evet,Yüksek,HAYIR,Belki,Belki
+30-,Dişi,İşletme,Her gün dışarı çık,HAYIR,HAYIR,Evet,Evet,Belki,Yüksek,Evet,Belki,Evet
+25-30,Dişi,Diğerleri,15-30 gün,Belki,Belki,Belki,HAYIR,HAYIR,Düşük,HAYIR,Belki,Belki
+20-25,Dişi,İşletme,15-30 gün,Evet,Evet,HAYIR,HAYIR,Evet,Orta,Evet,HAYIR,Evet
+30-,Erkek,İşletme,2 aydan fazla,Belki,Belki,HAYIR,Evet,HAYIR,Orta,Evet,HAYIR,Belki
+30-,Erkek,Diğerleri,15-30 gün,Belki,Evet,HAYIR,Evet,Belki,Orta,HAYIR,HAYIR,Evet
+25-30,Dişi,Diğerleri,2 aydan fazla,Belki,Belki,Evet,Evet,HAYIR,Düşük,Evet,Belki,Belki
+30-,Dişi,Kurumsal,2 aydan fazla,Belki,Evet,Evet,Belki,Evet,Orta,HAYIR,Evet,HAYIR
+20-25,Dişi,İşletme,1-14 gün,Evet,Belki,Evet,HAYIR,Belki,Düşük,HAYIR,Evet,Belki
+25-30,Erkek,Diğerleri,31-60 gün,Belki,HAYIR,Belki,HAYIR,Evet,Düşük,Evet,Evet,Evet
+20-25,Dişi,Diğerleri,31-60 gün,Belki,Belki,Evet,Belki,Evet,Orta,HAYIR,Evet,HAYIR
+16-20,Erkek,İşletme,Her gün dışarı çık,HAYIR,Evet,Evet,Evet,Evet,Düşük,Evet,Belki,Belki
+25-30,Erkek,Öğrenci,1-14 gün,Belki,Belki,Evet,Belki,Evet,Yüksek,Evet,HAYIR,HAYIR
+16-20,Erkek,Kurumsal,1-14 gün,Evet,Evet,Belki,Belki,Belki,Düşük,Evet,Evet,Belki
+20-25,Erkek,Öğrenci,2 aydan fazla,Belki,Belki,HAYIR,Belki,HAYIR,Düşük,HAYIR,Belki,Belki
+25-30,Erkek,Kurumsal,1-14 gün,Evet,Belki,HAYIR,Belki,Belki,Yüksek,Evet,Evet,Belki
+25-30,Dişi,Öğrenci,1-14 gün,HAYIR,Evet,HAYIR,Belki,Belki,Yüksek,HAYIR,Evet,Evet
+25-30,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Evet,HAYIR,Evet,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+25-30,Erkek,Ev hanımı,15-30 gün,HAYIR,Belki,HAYIR,HAYIR,Evet,Yüksek,Evet,Evet,HAYIR
+16-20,Dişi,Diğerleri,15-30 gün,Belki,Evet,HAYIR,Evet,HAYIR,Düşük,Evet,HAYIR,Evet
+30-,Dişi,İşletme,31-60 gün,HAYIR,HAYIR,Belki,Evet,HAYIR,Düşük,Evet,Belki,Evet
+20-25,Erkek,Diğerleri,15-30 gün,Evet,HAYIR,Evet,Evet,Belki,Düşük,Evet,Evet,Evet
+30-,Erkek,İşletme,31-60 gün,Belki,Evet,Belki,Belki,Belki,Düşük,HAYIR,Belki,Evet
+25-30,Dişi,Kurumsal,15-30 gün,HAYIR,Evet,Evet,Evet,Belki,Düşük,Evet,Belki,Belki
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Evet,Evet,Belki,HAYIR,Orta,HAYIR,HAYIR,Evet
+25-30,Erkek,Kurumsal,31-60 gün,HAYIR,Evet,HAYIR,Evet,Belki,Yüksek,Evet,HAYIR,HAYIR
+25-30,Erkek,İşletme,1-14 gün,HAYIR,Belki,HAYIR,HAYIR,Belki,Yüksek,HAYIR,HAYIR,Belki
+25-30,Erkek,Ev hanımı,15-30 gün,HAYIR,Evet,Evet,Belki,Belki,Orta,Evet,Evet,Belki
+16-20,Erkek,Öğrenci,15-30 gün,Belki,Evet,HAYIR,HAYIR,Evet,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,Evet,Belki,Evet,Orta,Evet,Belki,Belki
+16-20,Dişi,Öğrenci,31-60 gün,Belki,Belki,HAYIR,HAYIR,HAYIR,Orta,HAYIR,HAYIR,Evet
+30-,Dişi,Kurumsal,15-30 gün,HAYIR,Belki,Belki,Evet,Evet,Orta,Evet,Belki,Evet
+25-30,Dişi,Kurumsal,2 aydan fazla,HAYIR,Belki,HAYIR,Evet,Belki,Orta,Evet,Evet,HAYIR
+16-20,Erkek,Kurumsal,2 aydan fazla,Evet,Evet,Evet,Belki,Belki,Düşük,HAYIR,HAYIR,Belki
+20-25,Erkek,Öğrenci,2 aydan fazla,Evet,HAYIR,Evet,Belki,HAYIR,Yüksek,HAYIR,HAYIR,Evet
+20-25,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,Evet,Belki,Belki,Belki,Düşük,HAYIR,HAYIR,HAYIR
+30-,Dişi,Öğrenci,31-60 gün,Evet,Belki,HAYIR,Belki,Evet,Düşük,HAYIR,Evet,HAYIR
+25-30,Erkek,Kurumsal,Her gün dışarı çık,Evet,HAYIR,HAYIR,Evet,HAYIR,Orta,HAYIR,HAYIR,Belki
+20-25,Erkek,Öğrenci,2 aydan fazla,Evet,Belki,Evet,Evet,Evet,Düşük,Evet,Belki,HAYIR
+30-,Dişi,Öğrenci,31-60 gün,Belki,Belki,Evet,Belki,HAYIR,Orta,Evet,Belki,HAYIR
+30-,Erkek,İşletme,31-60 gün,Belki,HAYIR,HAYIR,Belki,Belki,Orta,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Ev hanımı,1-14 gün,Evet,Evet,Belki,Evet,HAYIR,Yüksek,Evet,Evet,Belki
+25-30,Dişi,İşletme,2 aydan fazla,Belki,Belki,Belki,Belki,Evet,Düşük,Evet,Belki,Belki
+30-,Dişi,Diğerleri,1-14 gün,HAYIR,Belki,Evet,Belki,Belki,Orta,HAYIR,Belki,Belki
+20-25,Dişi,İşletme,Her gün dışarı çık,Belki,HAYIR,Belki,HAYIR,Evet,Düşük,Evet,Belki,Evet
+20-25,Erkek,Kurumsal,2 aydan fazla,Evet,HAYIR,Belki,Evet,Belki,Orta,Evet,Evet,Belki
+30-,Erkek,Öğrenci,31-60 gün,HAYIR,Belki,Belki,Belki,Evet,Yüksek,HAYIR,HAYIR,Belki
+16-20,Dişi,Diğerleri,31-60 gün,Evet,Belki,HAYIR,Belki,HAYIR,Düşük,HAYIR,Evet,HAYIR
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Evet,HAYIR,Belki,HAYIR,HAYIR,Yüksek,Evet,HAYIR,HAYIR
+25-30,Erkek,Diğerleri,1-14 gün,HAYIR,HAYIR,Belki,Belki,Evet,Yüksek,Evet,Evet,HAYIR
+25-30,Erkek,İşletme,2 aydan fazla,Belki,Belki,Evet,Evet,Evet,Orta,Evet,HAYIR,HAYIR
+16-20,Dişi,Diğerleri,1-14 gün,Evet,Evet,HAYIR,Evet,Belki,Yüksek,Evet,Evet,HAYIR
+30-,Dişi,Öğrenci,Her gün dışarı çık,Evet,Belki,Evet,Belki,Evet,Orta,Evet,HAYIR,Belki
+30-,Erkek,Öğrenci,31-60 gün,Belki,Evet,HAYIR,HAYIR,HAYIR,Yüksek,Evet,Belki,Belki
+20-25,Erkek,Kurumsal,1-14 gün,Belki,Evet,Evet,Belki,Evet,Düşük,HAYIR,HAYIR,Evet
+16-20,Dişi,Öğrenci,15-30 gün,HAYIR,Belki,HAYIR,Evet,HAYIR,Düşük,HAYIR,Belki,HAYIR
+30-,Dişi,Öğrenci,31-60 gün,Belki,HAYIR,Evet,HAYIR,Belki,Düşük,Evet,Evet,Evet
+25-30,Erkek,İşletme,Her gün dışarı çık,HAYIR,Evet,Evet,HAYIR,Evet,Orta,Evet,Evet,Belki
+16-20,Dişi,Kurumsal,2 aydan fazla,Evet,Evet,Evet,HAYIR,Belki,Düşük,Evet,Belki,Belki
+30-,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Belki,HAYIR,Evet,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+30-,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Evet,Evet,HAYIR,Belki,Orta,HAYIR,Evet,Belki
+30-,Erkek,Diğerleri,31-60 gün,Belki,Belki,Evet,Belki,Evet,Düşük,Evet,Evet,HAYIR
+16-20,Erkek,Kurumsal,2 aydan fazla,Belki,HAYIR,Evet,Belki,Belki,Orta,HAYIR,Evet,HAYIR
+20-25,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,Belki,Belki,Belki,Yüksek,HAYIR,Belki,HAYIR
+20-25,Erkek,İşletme,15-30 gün,Evet,HAYIR,HAYIR,Belki,HAYIR,Düşük,HAYIR,Evet,HAYIR
+25-30,Dişi,Ev hanımı,2 aydan fazla,HAYIR,Belki,HAYIR,Evet,Belki,Yüksek,HAYIR,Belki,HAYIR
+30-,Dişi,Diğerleri,31-60 gün,Belki,Belki,HAYIR,Evet,Belki,Düşük,Evet,Belki,HAYIR
+20-25,Erkek,Ev hanımı,1-14 gün,Belki,HAYIR,Evet,Evet,Belki,Orta,HAYIR,Belki,HAYIR
+25-30,Dişi,Ev hanımı,1-14 gün,Evet,Belki,Evet,Evet,Belki,Orta,Evet,HAYIR,Belki
+16-20,Dişi,Kurumsal,31-60 gün,HAYIR,Belki,HAYIR,Belki,Belki,Yüksek,HAYIR,HAYIR,Belki
+25-30,Dişi,İşletme,Her gün dışarı çık,HAYIR,HAYIR,Evet,HAYIR,Evet,Yüksek,Evet,Belki,Evet
+25-30,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,Evet,HAYIR,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Kurumsal,31-60 gün,Evet,Evet,Evet,Belki,Belki,Orta,HAYIR,Evet,Belki
+30-,Dişi,İşletme,31-60 gün,Evet,Evet,HAYIR,HAYIR,Belki,Yüksek,HAYIR,Belki,Evet
+30-,Erkek,Kurumsal,1-14 gün,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Orta,Evet,HAYIR,Belki
+25-30,Dişi,İşletme,Her gün dışarı çık,HAYIR,Belki,Belki,Belki,Belki,Yüksek,Evet,Belki,HAYIR
+16-20,Erkek,Ev hanımı,15-30 gün,Belki,Belki,Belki,Belki,Belki,Yüksek,HAYIR,Evet,Belki
+30-,Dişi,Kurumsal,2 aydan fazla,Evet,Evet,HAYIR,Belki,Evet,Orta,HAYIR,Belki,Evet
+30-,Erkek,Öğrenci,15-30 gün,HAYIR,HAYIR,Evet,Belki,Evet,Düşük,HAYIR,Belki,Evet
+20-25,Dişi,Diğerleri,1-14 gün,Belki,Belki,Belki,Belki,HAYIR,Orta,HAYIR,Evet,Belki
+25-30,Erkek,Kurumsal,31-60 gün,Evet,Evet,Belki,Belki,Belki,Orta,HAYIR,Belki,Belki
+16-20,Dişi,Diğerleri,15-30 gün,HAYIR,Evet,HAYIR,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+20-25,Erkek,İşletme,1-14 gün,Belki,HAYIR,Belki,Evet,Evet,Yüksek,HAYIR,Evet,HAYIR
+20-25,Dişi,Ev hanımı,2 aydan fazla,Belki,Evet,Belki,Evet,Evet,Yüksek,HAYIR,Evet,Belki
+16-20,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Belki,HAYIR,Belki,HAYIR,Düşük,HAYIR,Evet,HAYIR
+25-30,Erkek,Ev hanımı,31-60 gün,Belki,Belki,Belki,HAYIR,Belki,Düşük,Evet,Evet,Evet
+20-25,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,HAYIR,Belki,Evet,Belki,Yüksek,Evet,Belki,Belki
+20-25,Dişi,Diğerleri,1-14 gün,Evet,HAYIR,Evet,Belki,HAYIR,Düşük,Evet,Belki,HAYIR
+25-30,Dişi,Kurumsal,31-60 gün,Evet,Belki,Belki,Evet,Evet,Orta,Evet,HAYIR,HAYIR
+30-,Erkek,Öğrenci,2 aydan fazla,Belki,Evet,HAYIR,Evet,Belki,Yüksek,Evet,Belki,HAYIR
+30-,Dişi,Kurumsal,31-60 gün,Evet,HAYIR,Evet,Evet,Evet,Orta,Evet,Evet,Evet
+20-25,Erkek,Öğrenci,Her gün dışarı çık,Belki,Belki,Belki,Evet,Belki,Yüksek,HAYIR,HAYIR,Belki
+30-,Erkek,Kurumsal,2 aydan fazla,Evet,HAYIR,HAYIR,Belki,Belki,Orta,Evet,Belki,Evet
+30-,Erkek,İşletme,15-30 gün,HAYIR,Belki,Evet,Belki,Belki,Orta,Evet,Belki,Evet
+16-20,Erkek,Öğrenci,31-60 gün,HAYIR,Evet,Belki,Belki,Belki,Düşük,Evet,Belki,Belki
+30-,Dişi,Kurumsal,31-60 gün,HAYIR,Belki,HAYIR,Belki,Evet,Yüksek,HAYIR,HAYIR,Belki
+25-30,Erkek,Öğrenci,2 aydan fazla,HAYIR,Belki,Evet,Evet,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+20-25,Erkek,İşletme,15-30 gün,Belki,HAYIR,Evet,HAYIR,Belki,Yüksek,Evet,HAYIR,Belki
+16-20,Dişi,İşletme,Her gün dışarı çık,HAYIR,Evet,Belki,HAYIR,Evet,Düşük,Evet,Evet,Belki
+25-30,Dişi,İşletme,31-60 gün,Evet,HAYIR,HAYIR,Belki,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Diğerleri,31-60 gün,Evet,HAYIR,Evet,HAYIR,Evet,Yüksek,Evet,Evet,Evet
+20-25,Erkek,İşletme,1-14 gün,Belki,Belki,Belki,HAYIR,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+30-,Dişi,Diğerleri,1-14 gün,Evet,Belki,Belki,Belki,Belki,Orta,Evet,Evet,Evet
+20-25,Dişi,Öğrenci,15-30 gün,Belki,Evet,Belki,Evet,HAYIR,Yüksek,Evet,Belki,HAYIR
+30-,Dişi,Kurumsal,15-30 gün,Belki,Belki,Evet,Belki,Belki,Düşük,HAYIR,HAYIR,Belki
+25-30,Dişi,Öğrenci,2 aydan fazla,Evet,Belki,HAYIR,Belki,Evet,Düşük,HAYIR,HAYIR,Evet
+30-,Erkek,Diğerleri,31-60 gün,Belki,Belki,HAYIR,HAYIR,Evet,Orta,Evet,Belki,Belki
+25-30,Dişi,Kurumsal,31-60 gün,HAYIR,Evet,Evet,Evet,Evet,Orta,Evet,Evet,Belki
+20-25,Dişi,Kurumsal,2 aydan fazla,Evet,Belki,Belki,Evet,HAYIR,Yüksek,Evet,Belki,HAYIR
+20-25,Dişi,Kurumsal,31-60 gün,HAYIR,Evet,Belki,HAYIR,HAYIR,Yüksek,Evet,HAYIR,Belki
+25-30,Dişi,İşletme,Her gün dışarı çık,HAYIR,Evet,HAYIR,HAYIR,Evet,Orta,Evet,HAYIR,Belki
+25-30,Erkek,Ev hanımı,1-14 gün,Evet,Evet,Belki,HAYIR,Belki,Düşük,HAYIR,Belki,HAYIR
+16-20,Erkek,İşletme,31-60 gün,HAYIR,HAYIR,Evet,Evet,Belki,Yüksek,HAYIR,Evet,Belki
+20-25,Dişi,Ev hanımı,2 aydan fazla,Belki,HAYIR,Belki,Evet,Belki,Orta,Evet,HAYIR,HAYIR
+25-30,Dişi,Diğerleri,31-60 gün,Evet,Belki,Belki,Evet,Evet,Yüksek,Evet,Evet,HAYIR
+30-,Erkek,Diğerleri,Her gün dışarı çık,Belki,Evet,Belki,Belki,HAYIR,Yüksek,HAYIR,Belki,Belki
+16-20,Dişi,Diğerleri,15-30 gün,Evet,Evet,HAYIR,Evet,HAYIR,Yüksek,Evet,Belki,HAYIR
+25-30,Erkek,İşletme,15-30 gün,Evet,Belki,Belki,Evet,HAYIR,Orta,HAYIR,Belki,Evet
+25-30,Dişi,Diğerleri,2 aydan fazla,Evet,Evet,HAYIR,HAYIR,Belki,Yüksek,Evet,HAYIR,Belki
+30-,Erkek,Kurumsal,1-14 gün,HAYIR,Evet,Belki,Evet,HAYIR,Orta,HAYIR,Evet,Belki
+20-25,Dişi,Ev hanımı,15-30 gün,Evet,Evet,HAYIR,HAYIR,Evet,Düşük,HAYIR,Evet,Evet
+30-,Dişi,Ev hanımı,31-60 gün,Evet,HAYIR,Evet,HAYIR,Belki,Düşük,Evet,Belki,Belki
+20-25,Erkek,İşletme,1-14 gün,Evet,Belki,Belki,HAYIR,Belki,Orta,Evet,HAYIR,Evet
+16-20,Erkek,Kurumsal,31-60 gün,Belki,HAYIR,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Evet
+30-,Dişi,Diğerleri,31-60 gün,Belki,HAYIR,Belki,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+20-25,Dişi,Öğrenci,31-60 gün,HAYIR,HAYIR,Belki,Belki,Evet,Orta,Evet,Evet,HAYIR
+30-,Dişi,Kurumsal,15-30 gün,HAYIR,HAYIR,Belki,Evet,Evet,Yüksek,HAYIR,HAYIR,HAYIR
+16-20,Erkek,Ev hanımı,1-14 gün,Evet,Belki,Evet,Evet,Evet,Orta,HAYIR,Belki,HAYIR
+30-,Dişi,Ev hanımı,15-30 gün,HAYIR,Evet,HAYIR,Belki,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+25-30,Dişi,Ev hanımı,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,HAYIR,Belki,Yüksek,HAYIR,Belki,Evet
+16-20,Erkek,Ev hanımı,15-30 gün,Belki,Belki,HAYIR,HAYIR,Evet,Düşük,Evet,Belki,Evet
+30-,Dişi,Ev hanımı,2 aydan fazla,HAYIR,Belki,Belki,HAYIR,Evet,Yüksek,HAYIR,HAYIR,Evet
+25-30,Erkek,Ev hanımı,15-30 gün,Evet,HAYIR,Belki,Evet,HAYIR,Orta,HAYIR,Belki,HAYIR
+16-20,Erkek,Öğrenci,15-30 gün,Belki,Evet,Belki,Evet,HAYIR,Düşük,HAYIR,HAYIR,Evet
+16-20,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Evet,Evet,Belki,Belki,Orta,HAYIR,HAYIR,Belki
+16-20,Dişi,Ev hanımı,2 aydan fazla,Belki,HAYIR,Belki,Belki,Evet,Düşük,HAYIR,Evet,Belki
+25-30,Dişi,İşletme,Her gün dışarı çık,Belki,Evet,Evet,HAYIR,Evet,Yüksek,Evet,HAYIR,HAYIR
+30-,Dişi,İşletme,15-30 gün,Belki,Belki,Evet,Evet,HAYIR,Yüksek,Evet,Evet,Evet
+25-30,Erkek,Kurumsal,Her gün dışarı çık,Belki,Belki,Belki,HAYIR,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+30-,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,Belki,HAYIR,Evet,Düşük,Evet,HAYIR,Evet
+20-25,Dişi,İşletme,1-14 gün,HAYIR,Evet,Belki,Belki,HAYIR,Orta,Evet,Belki,HAYIR
+25-30,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,Belki,HAYIR,Belki,Yüksek,HAYIR,Evet,Belki
+20-25,Erkek,Öğrenci,2 aydan fazla,HAYIR,Evet,HAYIR,HAYIR,HAYIR,Düşük,Evet,Evet,HAYIR
+20-25,Erkek,Öğrenci,1-14 gün,Belki,Belki,HAYIR,Belki,Evet,Düşük,Evet,HAYIR,Belki
+30-,Dişi,Diğerleri,15-30 gün,HAYIR,Evet,Belki,HAYIR,Evet,Orta,Evet,HAYIR,Evet
+25-30,Erkek,Ev hanımı,2 aydan fazla,HAYIR,Evet,Evet,Evet,Evet,Düşük,Evet,HAYIR,HAYIR
+16-20,Dişi,İşletme,1-14 gün,Evet,Belki,Evet,Evet,Evet,Yüksek,Evet,Evet,Belki
+25-30,Dişi,Kurumsal,31-60 gün,Belki,Belki,Evet,HAYIR,Belki,Düşük,Evet,HAYIR,HAYIR
+20-25,Dişi,Kurumsal,1-14 gün,Evet,HAYIR,Evet,Belki,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+16-20,Erkek,Kurumsal,15-30 gün,HAYIR,HAYIR,Evet,HAYIR,Evet,Yüksek,HAYIR,Belki,Belki
+30-,Erkek,İşletme,Her gün dışarı çık,Belki,HAYIR,Evet,Evet,Belki,Yüksek,Evet,Belki,HAYIR
+16-20,Erkek,Ev hanımı,15-30 gün,HAYIR,HAYIR,HAYIR,Evet,Evet,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,İşletme,15-30 gün,Belki,HAYIR,HAYIR,Evet,HAYIR,Orta,Evet,Belki,Belki
+30-,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,Belki,Belki,Düşük,Evet,Evet,Belki
+30-,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Evet,Belki,Belki,Belki,Orta,Evet,Belki,HAYIR
+16-20,Erkek,Kurumsal,Her gün dışarı çık,Belki,HAYIR,Evet,HAYIR,Belki,Yüksek,HAYIR,Belki,HAYIR
+16-20,Erkek,Kurumsal,1-14 gün,Evet,HAYIR,Belki,Evet,Evet,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,Öğrenci,15-30 gün,HAYIR,Evet,Evet,Belki,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Öğrenci,1-14 gün,Evet,Belki,HAYIR,HAYIR,Evet,Orta,Evet,Belki,Belki
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Belki,HAYIR,HAYIR,HAYIR,HAYIR,Düşük,Evet,Belki,Belki
+30-,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,Evet,Belki,HAYIR,Düşük,HAYIR,Belki,Belki
+30-,Dişi,İşletme,Her gün dışarı çık,Evet,Evet,HAYIR,Belki,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+16-20,Dişi,İşletme,15-30 gün,HAYIR,Evet,Evet,Belki,HAYIR,Düşük,Evet,Belki,Evet
+16-20,Dişi,İşletme,31-60 gün,Evet,HAYIR,Evet,Belki,Belki,Yüksek,HAYIR,Evet,HAYIR
+25-30,Dişi,İşletme,1-14 gün,Evet,HAYIR,Evet,HAYIR,HAYIR,Yüksek,Evet,Evet,Evet
+30-,Erkek,Ev hanımı,15-30 gün,Belki,HAYIR,HAYIR,Belki,Belki,Orta,HAYIR,Belki,Evet
+30-,Erkek,İşletme,Her gün dışarı çık,Belki,Evet,Evet,Belki,HAYIR,Yüksek,Evet,Belki,Belki
+16-20,Erkek,Diğerleri,15-30 gün,Evet,Evet,Evet,Evet,HAYIR,Orta,HAYIR,Evet,HAYIR
+16-20,Dişi,Öğrenci,Her gün dışarı çık,Belki,HAYIR,Evet,Evet,HAYIR,Düşük,HAYIR,Evet,Evet
+16-20,Erkek,Öğrenci,15-30 gün,HAYIR,Evet,Belki,Belki,Belki,Düşük,Evet,Evet,Evet
+16-20,Dişi,Kurumsal,31-60 gün,Belki,HAYIR,HAYIR,Belki,Evet,Orta,Evet,Belki,HAYIR
+20-25,Erkek,Diğerleri,2 aydan fazla,Belki,Belki,Evet,Evet,HAYIR,Düşük,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Diğerleri,15-30 gün,Belki,Evet,HAYIR,HAYIR,HAYIR,Düşük,Evet,Evet,Belki
+20-25,Dişi,İşletme,15-30 gün,Evet,HAYIR,HAYIR,Evet,HAYIR,Yüksek,Evet,Belki,Evet
+20-25,Dişi,Kurumsal,15-30 gün,Belki,Evet,HAYIR,Belki,HAYIR,Yüksek,HAYIR,Evet,Evet
+25-30,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,Belki,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+30-,Erkek,Diğerleri,15-30 gün,Evet,Evet,Evet,Evet,HAYIR,Yüksek,Evet,Evet,Evet
+16-20,Dişi,Diğerleri,Her gün dışarı çık,Belki,Belki,HAYIR,Evet,Evet,Düşük,Evet,HAYIR,Belki
+20-25,Erkek,İşletme,1-14 gün,Evet,Evet,Evet,HAYIR,Evet,Düşük,HAYIR,Belki,Evet
+30-,Erkek,Öğrenci,31-60 gün,Evet,Belki,Evet,Evet,HAYIR,Düşük,HAYIR,Belki,HAYIR
+30-,Erkek,İşletme,15-30 gün,Evet,Belki,Evet,HAYIR,Belki,Orta,HAYIR,HAYIR,HAYIR
+20-25,Erkek,Kurumsal,Her gün dışarı çık,Evet,Belki,Belki,Belki,HAYIR,Düşük,HAYIR,Evet,Belki
+25-30,Erkek,Öğrenci,2 aydan fazla,Evet,Evet,Evet,Evet,Evet,Yüksek,Evet,Evet,Belki
+16-20,Dişi,Kurumsal,15-30 gün,Evet,Evet,HAYIR,Evet,HAYIR,Orta,Evet,HAYIR,Belki
+25-30,Dişi,İşletme,Her gün dışarı çık,Belki,HAYIR,Belki,Evet,HAYIR,Orta,Evet,HAYIR,HAYIR
+20-25,Dişi,Kurumsal,31-60 gün,Evet,HAYIR,Belki,Evet,Evet,Düşük,HAYIR,Evet,Evet
+25-30,Erkek,Diğerleri,15-30 gün,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+20-25,Erkek,Kurumsal,Her gün dışarı çık,Evet,Belki,HAYIR,Belki,Evet,Orta,HAYIR,Evet,Evet
+16-20,Dişi,Diğerleri,1-14 gün,Evet,Evet,Belki,Belki,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+25-30,Dişi,Kurumsal,1-14 gün,Evet,HAYIR,Belki,HAYIR,Evet,Yüksek,HAYIR,HAYIR,Evet
+25-30,Dişi,Diğerleri,15-30 gün,Evet,HAYIR,Belki,HAYIR,HAYIR,Yüksek,Evet,Evet,Evet
+20-25,Erkek,İşletme,2 aydan fazla,Evet,Evet,Belki,Evet,Belki,Orta,Evet,HAYIR,Belki
+30-,Erkek,Kurumsal,31-60 gün,Belki,Belki,HAYIR,Belki,Evet,Orta,HAYIR,HAYIR,Belki
+30-,Dişi,Diğerleri,1-14 gün,Evet,Evet,Evet,Evet,Evet,Orta,HAYIR,Evet,HAYIR
+20-25,Erkek,Kurumsal,31-60 gün,HAYIR,HAYIR,HAYIR,HAYIR,Belki,Orta,Evet,Belki,Evet
+20-25,Erkek,Kurumsal,15-30 gün,Belki,HAYIR,HAYIR,Belki,Belki,Yüksek,Evet,Belki,Belki
+16-20,Erkek,Öğrenci,Her gün dışarı çık,Belki,HAYIR,Evet,HAYIR,Belki,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,Öğrenci,1-14 gün,Evet,Belki,Evet,Evet,Belki,Orta,Evet,Belki,HAYIR
+30-,Dişi,Ev hanımı,31-60 gün,Evet,Belki,Belki,Belki,Evet,Orta,Evet,HAYIR,Belki
+30-,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,HAYIR,HAYIR,Belki,Orta,Evet,HAYIR,Evet
+20-25,Dişi,Ev hanımı,2 aydan fazla,Evet,HAYIR,Belki,Evet,Evet,Orta,Evet,HAYIR,Evet
+30-,Erkek,Kurumsal,1-14 gün,HAYIR,Belki,Evet,Belki,Belki,Düşük,HAYIR,Evet,Belki
+30-,Erkek,Ev hanımı,31-60 gün,Evet,Evet,Belki,Belki,HAYIR,Orta,Evet,Evet,Belki
+20-25,Dişi,Kurumsal,31-60 gün,Belki,Evet,HAYIR,HAYIR,HAYIR,Orta,HAYIR,Evet,Evet
+25-30,Dişi,Öğrenci,2 aydan fazla,Belki,Belki,Evet,HAYIR,HAYIR,Orta,HAYIR,Belki,Belki
+30-,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,Evet,Belki,Evet,Yüksek,Evet,HAYIR,Belki
+30-,Dişi,Ev hanımı,1-14 gün,Evet,Belki,Evet,Belki,Belki,Yüksek,HAYIR,HAYIR,Evet
+16-20,Dişi,Kurumsal,1-14 gün,Belki,Belki,HAYIR,HAYIR,Evet,Düşük,Evet,Belki,HAYIR
+25-30,Dişi,Öğrenci,Her gün dışarı çık,Evet,Belki,HAYIR,HAYIR,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Kurumsal,31-60 gün,Belki,HAYIR,HAYIR,HAYIR,Evet,Düşük,HAYIR,Evet,Belki
+30-,Dişi,Kurumsal,1-14 gün,Belki,Evet,Evet,HAYIR,Evet,Düşük,HAYIR,HAYIR,Belki
+20-25,Erkek,Ev hanımı,2 aydan fazla,Belki,HAYIR,HAYIR,HAYIR,Belki,Orta,Evet,Belki,HAYIR
+16-20,Erkek,İşletme,Her gün dışarı çık,Evet,HAYIR,HAYIR,Belki,Belki,Düşük,Evet,Evet,Belki
+25-30,Dişi,Kurumsal,Her gün dışarı çık,HAYIR,HAYIR,Evet,Evet,Belki,Orta,HAYIR,HAYIR,Belki
+25-30,Dişi,Kurumsal,1-14 gün,Evet,HAYIR,Belki,Belki,Belki,Düşük,HAYIR,Evet,HAYIR
+16-20,Dişi,Diğerleri,15-30 gün,HAYIR,Belki,Belki,HAYIR,Belki,Orta,Evet,HAYIR,HAYIR
+16-20,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,Belki,Belki,HAYIR,Orta,Evet,Evet,Belki
+25-30,Dişi,Kurumsal,1-14 gün,HAYIR,Evet,Belki,HAYIR,Evet,Düşük,HAYIR,HAYIR,Evet
+20-25,Dişi,Ev hanımı,31-60 gün,Evet,Evet,Belki,HAYIR,HAYIR,Düşük,Evet,Evet,Evet
+25-30,Dişi,Ev hanımı,31-60 gün,Evet,Evet,Belki,Evet,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+30-,Erkek,Diğerleri,Her gün dışarı çık,Belki,Evet,Belki,Evet,Evet,Yüksek,Evet,Evet,HAYIR
+20-25,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Belki,Evet,Evet,Evet,Yüksek,HAYIR,Evet,Belki
+25-30,Dişi,Öğrenci,Her gün dışarı çık,Evet,HAYIR,Belki,HAYIR,Evet,Düşük,HAYIR,Belki,Evet
+30-,Erkek,Ev hanımı,Her gün dışarı çık,Evet,Belki,Belki,Evet,Evet,Düşük,HAYIR,Evet,Evet
+30-,Erkek,Kurumsal,1-14 gün,HAYIR,Evet,Belki,Evet,Evet,Orta,Evet,HAYIR,Evet
+30-,Erkek,Ev hanımı,15-30 gün,Belki,HAYIR,Belki,Belki,Belki,Düşük,HAYIR,Belki,Belki
+16-20,Dişi,Diğerleri,1-14 gün,HAYIR,HAYIR,Belki,Belki,Evet,Düşük,Evet,Evet,Belki
+16-20,Dişi,Diğerleri,2 aydan fazla,Belki,Evet,Evet,Belki,HAYIR,Düşük,Evet,Evet,Belki
+25-30,Erkek,Kurumsal,2 aydan fazla,Belki,HAYIR,Evet,HAYIR,Evet,Orta,HAYIR,HAYIR,Evet
+30-,Dişi,Diğerleri,2 aydan fazla,Evet,HAYIR,Evet,HAYIR,Evet,Orta,Evet,Belki,Belki
+25-30,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,Belki,Evet,Düşük,Evet,Belki,Evet
+20-25,Dişi,İşletme,1-14 gün,Evet,Evet,Belki,Evet,HAYIR,Düşük,HAYIR,Belki,Evet
+25-30,Erkek,Ev hanımı,Her gün dışarı çık,Evet,HAYIR,Evet,HAYIR,Evet,Düşük,Evet,HAYIR,HAYIR
+25-30,Dişi,Ev hanımı,1-14 gün,Belki,HAYIR,Evet,Evet,HAYIR,Düşük,HAYIR,HAYIR,Belki
+16-20,Dişi,İşletme,1-14 gün,Evet,Evet,HAYIR,Belki,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+20-25,Dişi,İşletme,15-30 gün,Evet,Belki,Belki,HAYIR,Evet,Düşük,Evet,HAYIR,Belki
+20-25,Erkek,Kurumsal,15-30 gün,Evet,Evet,HAYIR,Belki,Evet,Orta,Evet,HAYIR,Evet
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Belki,Evet,HAYIR,HAYIR,Yüksek,HAYIR,Belki,Evet
+25-30,Dişi,Ev hanımı,1-14 gün,Belki,HAYIR,Belki,HAYIR,HAYIR,Düşük,Evet,HAYIR,HAYIR
+30-,Dişi,Öğrenci,2 aydan fazla,HAYIR,Belki,Belki,Evet,Evet,Orta,HAYIR,Belki,HAYIR
+30-,Erkek,Öğrenci,15-30 gün,Belki,Evet,Evet,Evet,HAYIR,Orta,HAYIR,Evet,Belki
+30-,Dişi,Kurumsal,1-14 gün,HAYIR,Belki,HAYIR,Evet,Evet,Yüksek,Evet,Evet,Evet
+30-,Erkek,Diğerleri,31-60 gün,Belki,HAYIR,Belki,Belki,Evet,Orta,HAYIR,HAYIR,HAYIR
+30-,Dişi,Öğrenci,2 aydan fazla,Belki,HAYIR,Belki,Evet,HAYIR,Yüksek,HAYIR,Belki,Evet
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Belki,Evet,HAYIR,Evet,Düşük,Evet,Belki,HAYIR
+30-,Dişi,İşletme,31-60 gün,HAYIR,HAYIR,Evet,Belki,Belki,Düşük,Evet,HAYIR,Belki
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Evet,Belki,Evet,Evet,Belki,Yüksek,HAYIR,HAYIR,Belki
+25-30,Erkek,Ev hanımı,2 aydan fazla,Evet,HAYIR,Evet,Belki,HAYIR,Yüksek,HAYIR,HAYIR,Evet
+25-30,Dişi,Kurumsal,2 aydan fazla,HAYIR,Belki,Evet,HAYIR,Belki,Yüksek,HAYIR,Evet,HAYIR
+20-25,Erkek,İşletme,2 aydan fazla,Evet,Evet,HAYIR,Belki,HAYIR,Düşük,Evet,Belki,Evet
+16-20,Dişi,Öğrenci,Her gün dışarı çık,Belki,Evet,Evet,Evet,Evet,Düşük,Evet,Evet,Belki
+30-,Dişi,İşletme,15-30 gün,Belki,Belki,Evet,Belki,Belki,Orta,HAYIR,HAYIR,Evet
+16-20,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,Belki,HAYIR,HAYIR,Düşük,HAYIR,Evet,Evet
+16-20,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Evet,Evet,Belki,HAYIR,Orta,Evet,HAYIR,Belki
+16-20,Dişi,İşletme,1-14 gün,Evet,Belki,HAYIR,HAYIR,HAYIR,Yüksek,HAYIR,Evet,Evet
+16-20,Dişi,Diğerleri,31-60 gün,Evet,Evet,Belki,Belki,HAYIR,Yüksek,HAYIR,Evet,HAYIR
+30-,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Belki,Evet,Evet,Belki,Yüksek,Evet,Belki,Belki
+16-20,Erkek,Kurumsal,1-14 gün,Evet,Evet,Belki,HAYIR,Evet,Düşük,HAYIR,Belki,HAYIR
+20-25,Erkek,Öğrenci,1-14 gün,Belki,Belki,Evet,HAYIR,Evet,Yüksek,HAYIR,Evet,Belki
+16-20,Erkek,Öğrenci,2 aydan fazla,Evet,Evet,Belki,Evet,HAYIR,Orta,Evet,HAYIR,Belki
+20-25,Dişi,Kurumsal,31-60 gün,Evet,Evet,Belki,Evet,Evet,Yüksek,HAYIR,Belki,Belki
+30-,Dişi,İşletme,31-60 gün,Belki,Belki,HAYIR,Evet,Belki,Düşük,HAYIR,Evet,Belki
+25-30,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,HAYIR,Evet,Evet,Belki,Düşük,HAYIR,HAYIR,Evet
+20-25,Dişi,İşletme,2 aydan fazla,HAYIR,Evet,Evet,Belki,HAYIR,Yüksek,Evet,Belki,Evet
+30-,Dişi,İşletme,31-60 gün,Belki,HAYIR,Evet,Belki,Evet,Yüksek,Evet,HAYIR,Evet
+30-,Dişi,Diğerleri,2 aydan fazla,Evet,Belki,HAYIR,HAYIR,HAYIR,Orta,Evet,Belki,Belki
+25-30,Dişi,İşletme,1-14 gün,Evet,Belki,Belki,Evet,HAYIR,Orta,Evet,Evet,HAYIR
+16-20,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,HAYIR,Belki,Belki,Belki,Orta,HAYIR,Belki,HAYIR
+30-,Dişi,Diğerleri,15-30 gün,HAYIR,Evet,Evet,Evet,Evet,Düşük,HAYIR,Evet,Evet
+16-20,Erkek,Kurumsal,15-30 gün,Evet,HAYIR,HAYIR,Evet,Evet,Yüksek,Evet,Belki,Belki
+20-25,Dişi,Ev hanımı,31-60 gün,Evet,Belki,Belki,Belki,Evet,Düşük,HAYIR,Evet,Belki
+16-20,Erkek,Ev hanımı,31-60 gün,HAYIR,Evet,Evet,Belki,Evet,Düşük,Evet,Belki,Evet
+30-,Dişi,Ev hanımı,15-30 gün,Evet,Evet,Evet,Evet,HAYIR,Orta,Evet,Belki,Belki
+16-20,Dişi,Ev hanımı,31-60 gün,Belki,Belki,HAYIR,HAYIR,Belki,Orta,HAYIR,HAYIR,Belki
+20-25,Erkek,Ev hanımı,15-30 gün,Belki,Belki,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Evet
+30-,Erkek,Öğrenci,31-60 gün,Evet,HAYIR,HAYIR,HAYIR,Belki,Yüksek,Evet,HAYIR,Belki
+20-25,Dişi,Ev hanımı,15-30 gün,HAYIR,HAYIR,Evet,Belki,Belki,Düşük,Evet,Evet,Belki
+25-30,Erkek,Öğrenci,1-14 gün,Belki,HAYIR,HAYIR,Evet,Belki,Orta,HAYIR,Evet,Belki
+30-,Erkek,İşletme,15-30 gün,HAYIR,Evet,Belki,HAYIR,Belki,Yüksek,HAYIR,Belki,Evet
+20-25,Dişi,Diğerleri,31-60 gün,HAYIR,Belki,Evet,Belki,HAYIR,Yüksek,Evet,HAYIR,Evet
+25-30,Erkek,İşletme,1-14 gün,HAYIR,Evet,HAYIR,HAYIR,Evet,Düşük,HAYIR,Belki,HAYIR
+30-,Erkek,İşletme,Her gün dışarı çık,Evet,HAYIR,Evet,HAYIR,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Diğerleri,15-30 gün,HAYIR,Belki,Belki,Belki,Evet,Yüksek,HAYIR,Belki,Belki
+30-,Dişi,Kurumsal,2 aydan fazla,HAYIR,Belki,Evet,Belki,Evet,Düşük,Evet,Belki,Evet
+25-30,Erkek,Öğrenci,Her gün dışarı çık,Belki,Belki,HAYIR,Evet,Belki,Yüksek,Evet,Evet,Belki
+25-30,Dişi,Diğerleri,2 aydan fazla,Belki,Belki,Belki,HAYIR,Belki,Orta,Evet,HAYIR,HAYIR
+16-20,Erkek,Kurumsal,2 aydan fazla,HAYIR,Evet,Belki,Evet,HAYIR,Yüksek,Evet,Evet,HAYIR
+16-20,Erkek,Öğrenci,31-60 gün,Evet,Belki,HAYIR,HAYIR,HAYIR,Yüksek,Evet,Evet,Evet
+25-30,Erkek,Diğerleri,Her gün dışarı çık,HAYIR,Belki,HAYIR,Belki,HAYIR,Orta,HAYIR,Belki,Belki
+25-30,Dişi,Ev hanımı,2 aydan fazla,Belki,Evet,Evet,Belki,Evet,Yüksek,Evet,HAYIR,Evet
+30-,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Belki,Evet,HAYIR,Belki,Düşük,HAYIR,Evet,Belki
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Evet,Evet,HAYIR,Belki,Evet,Orta,HAYIR,Belki,Belki
+25-30,Dişi,İşletme,Her gün dışarı çık,HAYIR,Belki,Evet,HAYIR,Belki,Orta,HAYIR,Belki,Belki
+25-30,Dişi,İşletme,15-30 gün,HAYIR,Belki,Evet,Evet,Evet,Yüksek,HAYIR,Evet,HAYIR
+20-25,Dişi,Ev hanımı,31-60 gün,Evet,Belki,HAYIR,Belki,Belki,Orta,HAYIR,Evet,Belki
+30-,Dişi,Kurumsal,15-30 gün,Evet,Evet,Belki,HAYIR,HAYIR,Yüksek,HAYIR,Belki,HAYIR
+16-20,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Evet,Evet,Evet,Evet,Düşük,HAYIR,HAYIR,Belki
+16-20,Dişi,Öğrenci,Her gün dışarı çık,Evet,HAYIR,Evet,Belki,Evet,Orta,HAYIR,HAYIR,HAYIR
+30-,Erkek,İşletme,31-60 gün,HAYIR,Evet,Evet,Evet,Belki,Orta,HAYIR,Evet,Belki
+25-30,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Belki,Evet,Evet,Evet,Düşük,Evet,Belki,Belki
+16-20,Erkek,Ev hanımı,2 aydan fazla,Evet,Belki,Belki,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+20-25,Erkek,Diğerleri,1-14 gün,Evet,Evet,Evet,HAYIR,Belki,Düşük,Evet,HAYIR,Evet
+25-30,Dişi,Ev hanımı,15-30 gün,Evet,Evet,Belki,Belki,HAYIR,Yüksek,Evet,Belki,Belki
+30-,Erkek,Öğrenci,2 aydan fazla,Belki,Belki,Evet,HAYIR,Belki,Düşük,HAYIR,HAYIR,HAYIR
+16-20,Erkek,Öğrenci,15-30 gün,Evet,HAYIR,HAYIR,Belki,HAYIR,Yüksek,HAYIR,Belki,Belki
+25-30,Erkek,Kurumsal,1-14 gün,Belki,Belki,HAYIR,HAYIR,Evet,Düşük,Evet,Belki,Evet
+30-,Erkek,Kurumsal,2 aydan fazla,HAYIR,Evet,Evet,HAYIR,Evet,Orta,Evet,HAYIR,HAYIR
+30-,Erkek,Ev hanımı,2 aydan fazla,Evet,Belki,HAYIR,HAYIR,Evet,Düşük,HAYIR,HAYIR,Evet
+20-25,Erkek,Diğerleri,1-14 gün,Evet,Belki,Belki,Belki,Belki,Düşük,HAYIR,HAYIR,Belki
+16-20,Erkek,İşletme,2 aydan fazla,Belki,Belki,Belki,HAYIR,Evet,Yüksek,Evet,Belki,Evet
+30-,Dişi,Ev hanımı,15-30 gün,Belki,Evet,HAYIR,Belki,HAYIR,Düşük,Evet,Evet,HAYIR
+20-25,Dişi,İşletme,31-60 gün,Evet,Evet,Evet,Belki,Belki,Düşük,Evet,Belki,HAYIR
+20-25,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Belki,Belki,Evet,HAYIR,Orta,Evet,Belki,Evet
+20-25,Erkek,Diğerleri,1-14 gün,Belki,HAYIR,Evet,Belki,HAYIR,Düşük,Evet,Belki,Belki
+20-25,Erkek,Ev hanımı,1-14 gün,HAYIR,HAYIR,Evet,Belki,HAYIR,Düşük,Evet,Evet,Evet
+20-25,Erkek,Ev hanımı,31-60 gün,HAYIR,Evet,Evet,HAYIR,Belki,Düşük,Evet,Belki,Belki
+25-30,Erkek,İşletme,31-60 gün,HAYIR,Belki,Evet,Belki,Belki,Düşük,HAYIR,Belki,Evet
+25-30,Dişi,Ev hanımı,15-30 gün,HAYIR,Evet,Evet,Belki,Belki,Orta,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Diğerleri,1-14 gün,Evet,Belki,Belki,Evet,Evet,Düşük,Evet,HAYIR,Belki
+30-,Erkek,Diğerleri,1-14 gün,Belki,HAYIR,HAYIR,Evet,Evet,Orta,Evet,HAYIR,HAYIR
+20-25,Dişi,Ev hanımı,1-14 gün,Evet,Evet,HAYIR,Evet,HAYIR,Orta,HAYIR,Belki,Belki
+16-20,Erkek,Kurumsal,1-14 gün,Belki,HAYIR,Evet,Evet,Belki,Yüksek,HAYIR,HAYIR,Evet
+16-20,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,Evet,Evet,Evet,Düşük,Evet,Evet,HAYIR
+16-20,Erkek,Ev hanımı,31-60 gün,Belki,Belki,HAYIR,Belki,Belki,Yüksek,Evet,Evet,Evet
+25-30,Erkek,Ev hanımı,15-30 gün,HAYIR,HAYIR,HAYIR,HAYIR,Belki,Düşük,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Öğrenci,2 aydan fazla,Evet,HAYIR,Belki,Belki,Belki,Düşük,Evet,Belki,Evet
+30-,Dişi,Kurumsal,1-14 gün,Belki,HAYIR,Evet,Belki,Evet,Yüksek,Evet,HAYIR,HAYIR
+30-,Dişi,Öğrenci,15-30 gün,HAYIR,HAYIR,Evet,HAYIR,Belki,Orta,Evet,Belki,Belki
+25-30,Erkek,Ev hanımı,1-14 gün,Evet,HAYIR,Evet,HAYIR,Belki,Orta,HAYIR,HAYIR,Evet
+20-25,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,HAYIR,Evet,HAYIR,Yüksek,HAYIR,HAYIR,Evet
+16-20,Erkek,Diğerleri,31-60 gün,Evet,HAYIR,Belki,Evet,HAYIR,Yüksek,Evet,Belki,Evet
+16-20,Erkek,Kurumsal,15-30 gün,HAYIR,Evet,HAYIR,HAYIR,Evet,Orta,HAYIR,Belki,Belki
+25-30,Dişi,Öğrenci,31-60 gün,Evet,HAYIR,Belki,HAYIR,HAYIR,Yüksek,Evet,HAYIR,HAYIR
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Evet,HAYIR,Evet,Evet,HAYIR,Orta,Evet,HAYIR,Evet
+30-,Dişi,Ev hanımı,31-60 gün,Belki,HAYIR,Evet,Evet,Evet,Düşük,HAYIR,Belki,Belki
+25-30,Erkek,Kurumsal,1-14 gün,Evet,HAYIR,HAYIR,HAYIR,Belki,Orta,HAYIR,HAYIR,HAYIR
+20-25,Erkek,İşletme,15-30 gün,Belki,Evet,Belki,HAYIR,HAYIR,Orta,Evet,Belki,Evet
+20-25,Dişi,Kurumsal,31-60 gün,Belki,Belki,Belki,Evet,Evet,Orta,Evet,Evet,HAYIR
+30-,Erkek,Ev hanımı,2 aydan fazla,Belki,Evet,Evet,HAYIR,Belki,Orta,HAYIR,Belki,HAYIR
+30-,Erkek,İşletme,2 aydan fazla,Belki,Evet,HAYIR,HAYIR,Evet,Orta,HAYIR,HAYIR,HAYIR
+20-25,Dişi,Diğerleri,31-60 gün,Evet,HAYIR,HAYIR,HAYIR,Evet,Orta,Evet,Evet,Belki
+16-20,Erkek,Öğrenci,1-14 gün,Belki,Belki,Evet,HAYIR,Evet,Orta,HAYIR,HAYIR,Belki
+20-25,Erkek,İşletme,1-14 gün,HAYIR,Evet,Belki,Evet,Belki,Düşük,HAYIR,HAYIR,Evet
+16-20,Dişi,Ev hanımı,15-30 gün,HAYIR,Evet,HAYIR,HAYIR,Belki,Yüksek,Evet,Belki,Evet
+20-25,Erkek,İşletme,1-14 gün,Belki,HAYIR,HAYIR,HAYIR,Belki,Düşük,Evet,Evet,HAYIR
+30-,Dişi,Kurumsal,2 aydan fazla,Belki,Belki,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Belki
+16-20,Erkek,Kurumsal,Her gün dışarı çık,Belki,Evet,HAYIR,HAYIR,HAYIR,Orta,Evet,Evet,HAYIR
+30-,Dişi,Kurumsal,31-60 gün,Evet,Belki,HAYIR,HAYIR,Evet,Düşük,HAYIR,Evet,Belki
+30-,Erkek,Ev hanımı,1-14 gün,Belki,Evet,Evet,HAYIR,Belki,Düşük,HAYIR,Belki,HAYIR
+20-25,Erkek,İşletme,2 aydan fazla,Evet,Evet,Belki,HAYIR,HAYIR,Orta,Evet,Belki,Evet
+25-30,Erkek,Kurumsal,15-30 gün,HAYIR,Evet,Evet,HAYIR,Belki,Yüksek,HAYIR,Evet,HAYIR
+20-25,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,Evet,HAYIR,Evet,Orta,HAYIR,Belki,HAYIR
+30-,Dişi,Öğrenci,2 aydan fazla,Evet,HAYIR,Belki,Belki,Evet,Yüksek,Evet,HAYIR,HAYIR
+16-20,Erkek,Öğrenci,31-60 gün,HAYIR,HAYIR,Belki,Evet,Evet,Yüksek,Evet,Belki,HAYIR
+16-20,Erkek,Diğerleri,Her gün dışarı çık,Evet,Evet,Belki,HAYIR,HAYIR,Düşük,Evet,HAYIR,HAYIR
+16-20,Erkek,Öğrenci,15-30 gün,Belki,Evet,Belki,Belki,HAYIR,Düşük,Evet,Evet,Belki
+25-30,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,HAYIR,HAYIR,Belki,Düşük,HAYIR,Evet,Belki
+25-30,Erkek,Ev hanımı,1-14 gün,Belki,Evet,Evet,Belki,HAYIR,Düşük,HAYIR,Evet,HAYIR
+20-25,Dişi,Diğerleri,2 aydan fazla,Belki,Belki,Belki,HAYIR,HAYIR,Orta,HAYIR,Belki,Belki
+30-,Erkek,Kurumsal,2 aydan fazla,HAYIR,Evet,HAYIR,Belki,HAYIR,Yüksek,Evet,Belki,Evet
+25-30,Dişi,Ev hanımı,31-60 gün,HAYIR,Belki,Evet,Evet,HAYIR,Yüksek,HAYIR,HAYIR,Evet
+30-,Dişi,Öğrenci,2 aydan fazla,HAYIR,HAYIR,HAYIR,HAYIR,HAYIR,Düşük,Evet,HAYIR,Evet
+16-20,Erkek,İşletme,2 aydan fazla,HAYIR,Evet,Evet,HAYIR,HAYIR,Yüksek,Evet,HAYIR,Evet
+25-30,Dişi,Ev hanımı,15-30 gün,Belki,Evet,Evet,Evet,Evet,Yüksek,HAYIR,Evet,Belki
+25-30,Dişi,Ev hanımı,2 aydan fazla,Belki,HAYIR,Evet,HAYIR,HAYIR,Yüksek,HAYIR,Evet,HAYIR
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Evet,Belki,HAYIR,HAYIR,Yüksek,HAYIR,Belki,Belki
+20-25,Dişi,Kurumsal,1-14 gün,Belki,HAYIR,Belki,Belki,Evet,Yüksek,Evet,Evet,HAYIR
+25-30,Dişi,Kurumsal,2 aydan fazla,Belki,Evet,Evet,HAYIR,Evet,Orta,HAYIR,Belki,Belki
+25-30,Dişi,Öğrenci,15-30 gün,Belki,HAYIR,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,Evet
+30-,Dişi,İşletme,2 aydan fazla,Evet,Evet,Evet,Belki,Belki,Düşük,HAYIR,Evet,Belki
+30-,Erkek,Diğerleri,Her gün dışarı çık,HAYIR,Belki,HAYIR,HAYIR,Evet,Orta,HAYIR,HAYIR,Evet
+30-,Erkek,Diğerleri,2 aydan fazla,Belki,Evet,HAYIR,HAYIR,Evet,Orta,HAYIR,HAYIR,Evet
+25-30,Dişi,Diğerleri,31-60 gün,Evet,HAYIR,Belki,Belki,Evet,Orta,HAYIR,Evet,HAYIR
+16-20,Dişi,Ev hanımı,15-30 gün,Evet,HAYIR,HAYIR,Belki,Belki,Yüksek,Evet,Evet,HAYIR
+30-,Dişi,Öğrenci,31-60 gün,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+16-20,Dişi,Ev hanımı,15-30 gün,Evet,Evet,HAYIR,HAYIR,Belki,Yüksek,Evet,Belki,Evet
+20-25,Dişi,İşletme,Her gün dışarı çık,HAYIR,Belki,Evet,Belki,Evet,Orta,HAYIR,Belki,HAYIR
+16-20,Erkek,Kurumsal,2 aydan fazla,Evet,Evet,Belki,Belki,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Öğrenci,1-14 gün,Evet,Evet,HAYIR,Belki,Belki,Yüksek,Evet,HAYIR,Evet
+16-20,Dişi,Öğrenci,31-60 gün,HAYIR,HAYIR,Belki,HAYIR,Belki,Orta,HAYIR,Belki,Belki
+16-20,Dişi,Kurumsal,Her gün dışarı çık,Belki,Belki,Evet,Evet,Evet,Orta,Evet,Belki,Evet
+25-30,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,HAYIR,Belki,HAYIR,Evet,Düşük,Evet,HAYIR,Belki
+16-20,Dişi,İşletme,15-30 gün,Belki,Evet,Belki,Evet,Belki,Orta,HAYIR,Evet,Belki
+25-30,Dişi,Diğerleri,2 aydan fazla,HAYIR,Evet,HAYIR,Evet,Belki,Yüksek,Evet,Belki,HAYIR
+20-25,Dişi,Diğerleri,1-14 gün,Belki,Belki,HAYIR,Evet,HAYIR,Orta,HAYIR,HAYIR,Belki
+20-25,Erkek,Öğrenci,15-30 gün,HAYIR,Evet,Belki,HAYIR,Evet,Yüksek,HAYIR,Evet,HAYIR
+30-,Dişi,Diğerleri,31-60 gün,HAYIR,Belki,Evet,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+20-25,Erkek,Ev hanımı,1-14 gün,Evet,Evet,HAYIR,Belki,Evet,Yüksek,HAYIR,Evet,HAYIR
+30-,Erkek,Diğerleri,15-30 gün,HAYIR,Evet,Belki,Evet,HAYIR,Yüksek,HAYIR,Evet,HAYIR
+30-,Dişi,Diğerleri,2 aydan fazla,Belki,Evet,HAYIR,HAYIR,Evet,Orta,HAYIR,HAYIR,Belki
+20-25,Erkek,Diğerleri,15-30 gün,HAYIR,HAYIR,Evet,Evet,Evet,Düşük,Evet,Belki,Evet
+20-25,Dişi,Ev hanımı,31-60 gün,Belki,Evet,Belki,HAYIR,Evet,Yüksek,Evet,Evet,Belki
+30-,Erkek,Ev hanımı,31-60 gün,Belki,HAYIR,Evet,Evet,HAYIR,Düşük,Evet,Evet,Evet
+30-,Dişi,Ev hanımı,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,HAYIR,Evet,Düşük,Evet,HAYIR,Belki
+20-25,Dişi,İşletme,31-60 gün,Evet,HAYIR,HAYIR,HAYIR,HAYIR,Düşük,HAYIR,Belki,HAYIR
+25-30,Dişi,Diğerleri,15-30 gün,Belki,Belki,HAYIR,Evet,HAYIR,Düşük,HAYIR,HAYIR,Belki
+25-30,Erkek,Ev hanımı,1-14 gün,Belki,HAYIR,Belki,Belki,Belki,Düşük,HAYIR,Evet,HAYIR
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Evet,HAYIR,Belki,HAYIR,Düşük,HAYIR,HAYIR,Evet
+20-25,Dişi,Kurumsal,15-30 gün,Belki,HAYIR,Evet,Evet,HAYIR,Düşük,HAYIR,Evet,Belki
+20-25,Dişi,Ev hanımı,2 aydan fazla,Evet,Belki,HAYIR,Belki,HAYIR,Yüksek,Evet,Belki,HAYIR
+25-30,Erkek,İşletme,1-14 gün,Belki,HAYIR,Evet,HAYIR,Belki,Orta,HAYIR,HAYIR,Evet
+16-20,Erkek,İşletme,Her gün dışarı çık,Evet,HAYIR,HAYIR,Evet,Belki,Düşük,Evet,HAYIR,HAYIR
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Belki,HAYIR,Belki,Evet,Düşük,Evet,Belki,HAYIR
+30-,Dişi,Diğerleri,15-30 gün,Evet,Evet,Evet,Evet,Belki,Yüksek,HAYIR,HAYIR,Belki
+16-20,Dişi,Öğrenci,15-30 gün,HAYIR,HAYIR,HAYIR,Belki,HAYIR,Orta,HAYIR,Belki,Evet
+16-20,Dişi,Öğrenci,1-14 gün,Belki,HAYIR,Belki,HAYIR,Evet,Yüksek,HAYIR,Belki,Evet
+16-20,Dişi,İşletme,15-30 gün,Belki,Belki,Evet,Belki,Evet,Yüksek,HAYIR,Belki,Evet
+16-20,Dişi,Öğrenci,15-30 gün,HAYIR,HAYIR,Belki,Belki,Belki,Yüksek,HAYIR,Evet,Evet
+25-30,Dişi,İşletme,2 aydan fazla,HAYIR,Belki,Evet,Evet,HAYIR,Düşük,Evet,Evet,Belki
+16-20,Dişi,Ev hanımı,15-30 gün,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Orta,HAYIR,HAYIR,Evet
+20-25,Dişi,Öğrenci,15-30 gün,HAYIR,Evet,Evet,HAYIR,HAYIR,Yüksek,Evet,Belki,HAYIR
+30-,Dişi,Ev hanımı,2 aydan fazla,Evet,Belki,Evet,Evet,Belki,Düşük,HAYIR,Evet,Evet
+25-30,Dişi,Diğerleri,1-14 gün,HAYIR,Evet,Belki,Evet,HAYIR,Orta,Evet,HAYIR,Evet
+25-30,Dişi,Öğrenci,31-60 gün,Belki,HAYIR,Belki,Belki,Evet,Düşük,Evet,Evet,HAYIR
+20-25,Dişi,Diğerleri,Her gün dışarı çık,Evet,Evet,Belki,HAYIR,Belki,Düşük,HAYIR,Evet,Evet
+30-,Dişi,Ev hanımı,1-14 gün,HAYIR,Evet,Belki,Belki,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+20-25,Dişi,Ev hanımı,1-14 gün,Evet,Belki,Belki,Belki,HAYIR,Yüksek,Evet,Belki,HAYIR
+16-20,Dişi,Ev hanımı,1-14 gün,Belki,Belki,Evet,Evet,HAYIR,Orta,HAYIR,HAYIR,Evet
+20-25,Dişi,Ev hanımı,2 aydan fazla,Belki,HAYIR,Belki,HAYIR,Evet,Yüksek,HAYIR,HAYIR,Belki
+30-,Erkek,İşletme,Her gün dışarı çık,Evet,HAYIR,Evet,Evet,Belki,Yüksek,Evet,Evet,Evet
+30-,Erkek,Diğerleri,2 aydan fazla,Belki,HAYIR,Evet,HAYIR,Evet,Düşük,HAYIR,Belki,Evet
+16-20,Erkek,Diğerleri,2 aydan fazla,Belki,Evet,Belki,Belki,Evet,Yüksek,Evet,HAYIR,Belki
+25-30,Dişi,Kurumsal,1-14 gün,HAYIR,Evet,Evet,Evet,Belki,Yüksek,Evet,HAYIR,Evet
+20-25,Erkek,Ev hanımı,2 aydan fazla,HAYIR,Belki,HAYIR,Belki,Belki,Yüksek,Evet,HAYIR,HAYIR
+20-25,Dişi,Diğerleri,31-60 gün,Belki,Evet,Evet,HAYIR,HAYIR,Orta,HAYIR,Belki,Evet
+30-,Dişi,Öğrenci,2 aydan fazla,Belki,Evet,HAYIR,Belki,HAYIR,Düşük,HAYIR,Belki,HAYIR
+16-20,Dişi,İşletme,31-60 gün,Belki,HAYIR,HAYIR,Evet,HAYIR,Orta,Evet,HAYIR,HAYIR
+25-30,Erkek,Ev hanımı,1-14 gün,Evet,Evet,HAYIR,Belki,Evet,Düşük,HAYIR,HAYIR,HAYIR
+16-20,Erkek,Ev hanımı,31-60 gün,HAYIR,Belki,Belki,Evet,HAYIR,Orta,Evet,Belki,HAYIR
+25-30,Erkek,Ev hanımı,1-14 gün,Belki,Evet,Evet,Evet,Evet,Orta,Evet,HAYIR,Evet
+25-30,Dişi,İşletme,31-60 gün,HAYIR,Evet,HAYIR,Evet,Evet,Orta,HAYIR,HAYIR,HAYIR
+30-,Erkek,Ev hanımı,31-60 gün,Evet,Evet,HAYIR,Evet,HAYIR,Yüksek,Evet,Belki,HAYIR
+25-30,Erkek,Öğrenci,15-30 gün,HAYIR,Belki,HAYIR,Belki,Evet,Yüksek,Evet,HAYIR,HAYIR
+30-,Erkek,Ev hanımı,Her gün dışarı çık,Belki,HAYIR,HAYIR,HAYIR,Evet,Yüksek,Evet,HAYIR,Belki
+30-,Dişi,Öğrenci,Her gün dışarı çık,Evet,Evet,Belki,Belki,Evet,Düşük,Evet,HAYIR,HAYIR
+20-25,Dişi,Diğerleri,31-60 gün,Evet,Belki,HAYIR,Evet,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+25-30,Dişi,Diğerleri,15-30 gün,HAYIR,HAYIR,Belki,Belki,Belki,Düşük,Evet,Belki,Belki
+20-25,Erkek,Öğrenci,31-60 gün,Evet,Belki,Belki,HAYIR,HAYIR,Düşük,Evet,Belki,Belki
+30-,Dişi,Diğerleri,1-14 gün,Evet,Evet,Evet,Evet,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+25-30,Dişi,Kurumsal,1-14 gün,Evet,HAYIR,Evet,Evet,Evet,Orta,HAYIR,Evet,Evet
+30-,Erkek,Kurumsal,2 aydan fazla,HAYIR,HAYIR,Belki,Belki,Belki,Orta,HAYIR,Belki,Belki
+16-20,Dişi,İşletme,Her gün dışarı çık,Belki,Belki,Evet,Belki,Belki,Düşük,HAYIR,Belki,Belki
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Evet,Evet,HAYIR,Belki,Evet,Düşük,Evet,HAYIR,Belki
+30-,Erkek,Diğerleri,Her gün dışarı çık,HAYIR,HAYIR,Evet,HAYIR,Belki,Düşük,HAYIR,Evet,Evet
+20-25,Erkek,İşletme,1-14 gün,Evet,HAYIR,Belki,Evet,Evet,Yüksek,HAYIR,Evet,Evet
+25-30,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,Belki,Evet,Yüksek,Evet,HAYIR,HAYIR
+16-20,Dişi,Öğrenci,1-14 gün,Evet,HAYIR,HAYIR,Evet,Evet,Düşük,Evet,Evet,Evet
+25-30,Erkek,Kurumsal,Her gün dışarı çık,Evet,Belki,Evet,Evet,HAYIR,Orta,Evet,HAYIR,HAYIR
+20-25,Erkek,Öğrenci,31-60 gün,HAYIR,Belki,Belki,HAYIR,HAYIR,Orta,Evet,Belki,Evet
+30-,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,Belki,Evet,HAYIR,Orta,HAYIR,Belki,Evet
+16-20,Dişi,Diğerleri,1-14 gün,Evet,Evet,Belki,HAYIR,HAYIR,Orta,Evet,Evet,HAYIR
+20-25,Erkek,İşletme,1-14 gün,Belki,Evet,Belki,HAYIR,HAYIR,Orta,Evet,HAYIR,HAYIR
+30-,Erkek,Ev hanımı,2 aydan fazla,Belki,HAYIR,Evet,Evet,Belki,Yüksek,Evet,HAYIR,HAYIR
+25-30,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,HAYIR,Belki,Orta,Evet,Evet,Evet
+25-30,Dişi,Öğrenci,Her gün dışarı çık,Evet,Evet,HAYIR,Evet,Belki,Orta,HAYIR,Evet,HAYIR
+20-25,Dişi,Kurumsal,31-60 gün,Belki,HAYIR,HAYIR,Evet,HAYIR,Orta,Evet,HAYIR,Evet
+25-30,Erkek,Diğerleri,1-14 gün,Belki,HAYIR,Belki,Belki,Evet,Düşük,HAYIR,HAYIR,Belki
+30-,Erkek,Kurumsal,31-60 gün,Evet,HAYIR,Belki,Belki,HAYIR,Orta,HAYIR,Evet,HAYIR
+20-25,Erkek,Öğrenci,1-14 gün,Evet,Belki,Belki,Belki,Belki,Yüksek,Evet,Belki,Evet
+25-30,Dişi,İşletme,2 aydan fazla,Belki,Evet,Evet,HAYIR,Belki,Orta,HAYIR,HAYIR,Evet
+20-25,Dişi,Ev hanımı,15-30 gün,HAYIR,HAYIR,HAYIR,Belki,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Erkek,Öğrenci,2 aydan fazla,Belki,Evet,Evet,HAYIR,Belki,Orta,Evet,HAYIR,HAYIR
+30-,Dişi,Kurumsal,Her gün dışarı çık,Evet,HAYIR,HAYIR,Belki,Evet,Yüksek,Evet,Evet,Evet
+16-20,Dişi,Kurumsal,2 aydan fazla,HAYIR,HAYIR,HAYIR,Belki,HAYIR,Yüksek,HAYIR,HAYIR,Belki
+16-20,Erkek,Kurumsal,31-60 gün,Evet,HAYIR,Belki,Evet,Evet,Orta,Evet,Belki,HAYIR
+20-25,Erkek,İşletme,Her gün dışarı çık,Belki,Evet,HAYIR,Evet,Belki,Orta,HAYIR,Evet,Belki
+30-,Dişi,İşletme,2 aydan fazla,HAYIR,HAYIR,Belki,Belki,Evet,Yüksek,Evet,Belki,HAYIR
+25-30,Dişi,Diğerleri,1-14 gün,Evet,Evet,HAYIR,HAYIR,Belki,Düşük,HAYIR,Belki,Belki
+30-,Dişi,Diğerleri,2 aydan fazla,HAYIR,Belki,HAYIR,Belki,HAYIR,Düşük,HAYIR,Evet,HAYIR
+20-25,Erkek,Kurumsal,15-30 gün,Evet,Evet,HAYIR,Evet,HAYIR,Orta,Evet,Belki,Belki
+16-20,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,Belki,HAYIR,Evet,Evet,Düşük,Evet,HAYIR,Belki
+16-20,Dişi,İşletme,1-14 gün,HAYIR,HAYIR,HAYIR,HAYIR,Belki,Orta,HAYIR,HAYIR,Evet
+25-30,Erkek,Kurumsal,31-60 gün,Evet,Evet,Belki,Evet,Evet,Düşük,HAYIR,Evet,Evet
+20-25,Dişi,İşletme,15-30 gün,HAYIR,Belki,HAYIR,HAYIR,HAYIR,Orta,Evet,HAYIR,HAYIR
+30-,Erkek,Diğerleri,15-30 gün,Evet,HAYIR,Evet,Evet,Evet,Düşük,Evet,Evet,HAYIR
+30-,Dişi,Ev hanımı,31-60 gün,Belki,Belki,Evet,Evet,HAYIR,Yüksek,Evet,Belki,Belki
+25-30,Erkek,Kurumsal,2 aydan fazla,HAYIR,Belki,HAYIR,Evet,HAYIR,Yüksek,HAYIR,Evet,Evet
+16-20,Erkek,Öğrenci,31-60 gün,Evet,Belki,Evet,Belki,HAYIR,Orta,HAYIR,HAYIR,Evet
+25-30,Dişi,Kurumsal,15-30 gün,Evet,HAYIR,HAYIR,HAYIR,Evet,Orta,Evet,HAYIR,Belki
+25-30,Erkek,Öğrenci,1-14 gün,Belki,HAYIR,Evet,Belki,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+20-25,Dişi,Diğerleri,2 aydan fazla,HAYIR,Belki,Belki,HAYIR,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+16-20,Dişi,Diğerleri,Her gün dışarı çık,Evet,Belki,Evet,Belki,HAYIR,Orta,Evet,Evet,Evet
+30-,Erkek,Diğerleri,2 aydan fazla,Evet,Belki,Belki,Belki,Evet,Düşük,HAYIR,Belki,HAYIR
+20-25,Erkek,Ev hanımı,Her gün dışarı çık,Belki,Evet,Belki,Belki,Belki,Orta,Evet,HAYIR,Evet
+20-25,Erkek,Kurumsal,31-60 gün,Evet,Belki,Evet,Belki,Evet,Yüksek,HAYIR,Evet,Belki
+30-,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,HAYIR,HAYIR,Evet,Düşük,HAYIR,Belki,Evet
+16-20,Dişi,Ev hanımı,1-14 gün,Belki,Evet,Evet,Evet,Evet,Düşük,Evet,HAYIR,Evet
+25-30,Erkek,Öğrenci,Her gün dışarı çık,Belki,HAYIR,HAYIR,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+25-30,Dişi,Diğerleri,15-30 gün,HAYIR,HAYIR,HAYIR,Evet,HAYIR,Orta,Evet,Evet,HAYIR
+16-20,Erkek,İşletme,1-14 gün,Evet,Belki,HAYIR,Evet,HAYIR,Orta,HAYIR,Evet,Evet
+20-25,Dişi,İşletme,15-30 gün,Belki,Belki,Evet,Evet,Belki,Yüksek,HAYIR,Belki,Belki
+16-20,Dişi,Kurumsal,Her gün dışarı çık,HAYIR,HAYIR,Belki,Evet,Evet,Yüksek,HAYIR,Belki,Evet
+30-,Erkek,Diğerleri,31-60 gün,Evet,Evet,Evet,HAYIR,HAYIR,Yüksek,HAYIR,Evet,Belki
+20-25,Dişi,Ev hanımı,1-14 gün,Evet,Evet,HAYIR,Evet,HAYIR,Düşük,Evet,HAYIR,Evet
+30-,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,HAYIR,Evet,HAYIR,Yüksek,HAYIR,HAYIR,HAYIR
+16-20,Dişi,İşletme,Her gün dışarı çık,Belki,Evet,Evet,Belki,Evet,Düşük,HAYIR,Evet,Evet
+20-25,Dişi,Diğerleri,15-30 gün,Evet,Belki,Belki,Evet,HAYIR,Yüksek,HAYIR,Belki,Evet
+16-20,Erkek,İşletme,31-60 gün,HAYIR,HAYIR,HAYIR,HAYIR,Belki,Düşük,Evet,HAYIR,HAYIR
+30-,Erkek,Öğrenci,15-30 gün,Evet,HAYIR,Belki,Belki,Evet,Yüksek,HAYIR,Belki,HAYIR
+25-30,Erkek,Kurumsal,31-60 gün,Belki,Evet,Evet,HAYIR,Belki,Orta,HAYIR,Evet,Evet
+20-25,Erkek,Ev hanımı,1-14 gün,Belki,HAYIR,HAYIR,Belki,HAYIR,Düşük,Evet,HAYIR,Evet
+16-20,Erkek,Öğrenci,Her gün dışarı çık,Evet,HAYIR,Evet,HAYIR,HAYIR,Orta,HAYIR,Belki,Belki
+30-,Dişi,Ev hanımı,15-30 gün,HAYIR,Belki,Belki,Belki,Belki,Düşük,Evet,Evet,HAYIR
+25-30,Dişi,Diğerleri,31-60 gün,HAYIR,HAYIR,Belki,Belki,Belki,Yüksek,Evet,Belki,HAYIR
+30-,Erkek,Kurumsal,31-60 gün,Belki,Belki,Evet,Evet,HAYIR,Orta,HAYIR,Evet,HAYIR
+20-25,Dişi,Öğrenci,1-14 gün,HAYIR,HAYIR,Evet,Evet,HAYIR,Orta,HAYIR,Evet,Evet
+25-30,Dişi,Öğrenci,1-14 gün,Evet,HAYIR,HAYIR,Belki,Belki,Yüksek,HAYIR,Belki,Belki
+16-20,Dişi,Öğrenci,2 aydan fazla,Evet,Evet,Evet,Belki,HAYIR,Orta,Evet,Evet,HAYIR
+30-,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Evet,Evet,Evet,Evet,Düşük,Evet,Belki,Evet
+20-25,Erkek,Diğerleri,15-30 gün,Belki,Belki,HAYIR,Evet,HAYIR,Yüksek,HAYIR,Evet,Belki
+30-,Dişi,Diğerleri,31-60 gün,Belki,Belki,Belki,Evet,HAYIR,Orta,Evet,Belki,Evet
+20-25,Erkek,Kurumsal,1-14 gün,HAYIR,Evet,Evet,HAYIR,Evet,Düşük,Evet,HAYIR,Evet
+30-,Dişi,Öğrenci,1-14 gün,HAYIR,Belki,HAYIR,Evet,Evet,Orta,HAYIR,Belki,HAYIR
+30-,Dişi,Ev hanımı,31-60 gün,Belki,Evet,Evet,Evet,Belki,Orta,Evet,Belki,Belki
+16-20,Erkek,İşletme,1-14 gün,Evet,Evet,Belki,HAYIR,Belki,Orta,HAYIR,Belki,Belki
+25-30,Dişi,Diğerleri,2 aydan fazla,Evet,Evet,Belki,Belki,HAYIR,Yüksek,Evet,Belki,Evet
+20-25,Erkek,Öğrenci,31-60 gün,Evet,HAYIR,Evet,Evet,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+16-20,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,Evet,HAYIR,HAYIR,Yüksek,Evet,HAYIR,Evet
+25-30,Erkek,Diğerleri,31-60 gün,HAYIR,Evet,Evet,Belki,Belki,Düşük,HAYIR,Belki,Belki
+16-20,Dişi,Öğrenci,15-30 gün,HAYIR,Belki,Evet,HAYIR,Evet,Düşük,HAYIR,Belki,Belki
+30-,Dişi,İşletme,31-60 gün,HAYIR,Evet,Evet,Belki,Belki,Orta,Evet,Evet,Belki
+16-20,Dişi,Ev hanımı,2 aydan fazla,HAYIR,Evet,Belki,Belki,Evet,Orta,HAYIR,HAYIR,HAYIR
+25-30,Dişi,İşletme,1-14 gün,Belki,Evet,Evet,HAYIR,Evet,Orta,Evet,Belki,Evet
+25-30,Dişi,İşletme,1-14 gün,Evet,HAYIR,Evet,HAYIR,Evet,Orta,Evet,Evet,Evet
+25-30,Erkek,Kurumsal,2 aydan fazla,Evet,Evet,HAYIR,Belki,Belki,Düşük,HAYIR,Belki,HAYIR
+16-20,Erkek,Diğerleri,31-60 gün,HAYIR,Evet,Evet,HAYIR,Belki,Orta,Evet,Belki,HAYIR
+16-20,Erkek,Öğrenci,Her gün dışarı çık,Belki,Evet,Belki,Evet,Belki,Yüksek,HAYIR,Belki,Belki
+16-20,Dişi,Öğrenci,15-30 gün,Belki,HAYIR,HAYIR,HAYIR,HAYIR,Düşük,Evet,HAYIR,Belki
+30-,Erkek,İşletme,1-14 gün,Evet,HAYIR,Belki,HAYIR,HAYIR,Yüksek,Evet,Belki,Evet
+16-20,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,Evet,Evet,HAYIR,HAYIR,Düşük,Evet,Belki,Belki
+20-25,Erkek,Diğerleri,1-14 gün,HAYIR,HAYIR,Evet,HAYIR,Belki,Düşük,HAYIR,Belki,HAYIR
+30-,Erkek,İşletme,15-30 gün,HAYIR,HAYIR,Evet,Evet,HAYIR,Orta,Evet,HAYIR,HAYIR
+20-25,Erkek,Diğerleri,1-14 gün,Belki,HAYIR,Belki,Evet,Belki,Orta,HAYIR,HAYIR,Belki
+30-,Dişi,Diğerleri,2 aydan fazla,Evet,Belki,HAYIR,Belki,Belki,Yüksek,Evet,HAYIR,HAYIR
+25-30,Erkek,Öğrenci,2 aydan fazla,HAYIR,Belki,Belki,Evet,Evet,Düşük,Evet,Evet,Belki
+25-30,Dişi,Kurumsal,31-60 gün,Evet,Evet,HAYIR,Belki,HAYIR,Düşük,HAYIR,Belki,HAYIR
+25-30,Dişi,Diğerleri,31-60 gün,Evet,HAYIR,Evet,HAYIR,HAYIR,Orta,HAYIR,Evet,Belki
+16-20,Dişi,Ev hanımı,2 aydan fazla,Belki,Evet,HAYIR,Belki,Evet,Düşük,Evet,Evet,Evet
+30-,Erkek,Diğerleri,1-14 gün,Belki,HAYIR,Evet,HAYIR,HAYIR,Düşük,HAYIR,Evet,HAYIR
+30-,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Evet,Belki,HAYIR,Evet,Yüksek,Evet,Belki,Belki
+25-30,Dişi,Ev hanımı,1-14 gün,Evet,Evet,Belki,Belki,Evet,Orta,Evet,Evet,HAYIR
+30-,Dişi,Diğerleri,1-14 gün,Evet,Evet,HAYIR,HAYIR,HAYIR,Yüksek,Evet,Belki,Evet
+16-20,Erkek,Öğrenci,1-14 gün,HAYIR,Belki,Evet,HAYIR,Evet,Yüksek,Evet,Belki,Belki
+20-25,Erkek,İşletme,31-60 gün,Evet,Belki,Belki,Evet,HAYIR,Düşük,Evet,Evet,Evet
+30-,Erkek,Ev hanımı,15-30 gün,Evet,Evet,Evet,Evet,Belki,Düşük,Evet,Evet,HAYIR
+30-,Erkek,Ev hanımı,1-14 gün,HAYIR,Evet,Evet,HAYIR,Belki,Yüksek,Evet,Evet,Belki
+16-20,Erkek,Diğerleri,1-14 gün,HAYIR,HAYIR,Evet,HAYIR,HAYIR,Orta,Evet,Belki,HAYIR
+16-20,Dişi,Öğrenci,Her gün dışarı çık,HAYIR,Belki,HAYIR,Belki,HAYIR,Düşük,Evet,Belki,HAYIR
+25-30,Dişi,Ev hanımı,15-30 gün,Belki,HAYIR,Evet,HAYIR,Belki,Düşük,HAYIR,HAYIR,HAYIR
+25-30,Dişi,Ev hanımı,1-14 gün,Evet,Belki,Evet,Evet,Evet,Orta,Evet,Evet,Belki
+16-20,Dişi,İşletme,31-60 gün,HAYIR,Evet,Belki,Belki,Belki,Yüksek,Evet,Belki,HAYIR
+20-25,Erkek,Diğerleri,Her gün dışarı çık,HAYIR,Belki,Evet,Evet,HAYIR,Yüksek,HAYIR,Belki,Belki
+20-25,Erkek,İşletme,Her gün dışarı çık,Evet,HAYIR,HAYIR,HAYIR,Belki,Yüksek,Evet,HAYIR,HAYIR
+25-30,Dişi,Öğrenci,31-60 gün,HAYIR,Belki,Evet,HAYIR,HAYIR,Orta,Evet,Belki,Belki
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,HAYIR,Belki,Belki,HAYIR,HAYIR,Orta,HAYIR,Belki,Belki
+16-20,Dişi,Ev hanımı,15-30 gün,Belki,HAYIR,HAYIR,Belki,HAYIR,Orta,Evet,HAYIR,Evet
+16-20,Erkek,Kurumsal,Her gün dışarı çık,Evet,HAYIR,Evet,Belki,Belki,Yüksek,Evet,Evet,Belki
+16-20,Erkek,Kurumsal,31-60 gün,Evet,Evet,Belki,HAYIR,Belki,Yüksek,HAYIR,HAYIR,Belki
+16-20,Dişi,Kurumsal,Her gün dışarı çık,HAYIR,HAYIR,HAYIR,Belki,Evet,Orta,HAYIR,Belki,HAYIR
+30-,Dişi,Öğrenci,2 aydan fazla,Evet,Belki,Evet,HAYIR,HAYIR,Orta,HAYIR,Belki,Belki
+16-20,Dişi,Öğrenci,31-60 gün,Evet,Belki,Belki,Evet,HAYIR,Düşük,HAYIR,HAYIR,Belki
+16-20,Erkek,Öğrenci,15-30 gün,Belki,Belki,Evet,Evet,Evet,Orta,Evet,HAYIR,Evet
+16-20,Erkek,Öğrenci,2 aydan fazla,Belki,Evet,Evet,Evet,HAYIR,Düşük,HAYIR,HAYIR,Evet
+30-,Erkek,İşletme,1-14 gün,HAYIR,Evet,Evet,HAYIR,Evet,Düşük,Evet,HAYIR,Evet
+20-25,Dişi,İşletme,31-60 gün,HAYIR,Evet,Belki,Belki,HAYIR,Orta,Evet,HAYIR,Evet
+20-25,Dişi,Öğrenci,31-60 gün,Belki,Belki,Evet,Belki,Evet,Düşük,Evet,Belki,HAYIR
+20-25,Erkek,Öğrenci,2 aydan fazla,HAYIR,Evet,Belki,Belki,Belki,Yüksek,Evet,Belki,Evet
+16-20,Erkek,Kurumsal,15-30 gün,Evet,Belki,Belki,Evet,HAYIR,Orta,HAYIR,Belki,Belki
+20-25,Dişi,Kurumsal,31-60 gün,Evet,Belki,HAYIR,Belki,Evet,Orta,Evet,Evet,Evet
+20-25,Erkek,İşletme,15-30 gün,HAYIR,Belki,HAYIR,Evet,Evet,Orta,HAYIR,Belki,Evet
+30-,Dişi,Diğerleri,2 aydan fazla,HAYIR,HAYIR,Evet,Evet,Belki,Yüksek,Evet,HAYIR,Evet
+16-20,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Belki,Evet,HAYIR,HAYIR,Düşük,Evet,HAYIR,Evet
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Belki,Belki,HAYIR,Belki,Evet,Orta,Evet,HAYIR,HAYIR
+25-30,Erkek,Öğrenci,Her gün dışarı çık,Evet,Belki,HAYIR,HAYIR,HAYIR,Yüksek,HAYIR,HAYIR,HAYIR
+20-25,Erkek,Öğrenci,Her gün dışarı çık,Belki,Belki,HAYIR,Evet,Belki,Yüksek,HAYIR,HAYIR,Evet
+30-,Erkek,Ev hanımı,2 aydan fazla,Belki,HAYIR,Belki,HAYIR,Evet,Yüksek,HAYIR,Belki,Belki
+16-20,Dişi,Diğerleri,15-30 gün,Evet,Evet,HAYIR,Belki,HAYIR,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,Öğrenci,1-14 gün,HAYIR,Belki,Belki,Evet,Evet,Yüksek,Evet,Belki,HAYIR
+20-25,Erkek,Öğrenci,1-14 gün,HAYIR,HAYIR,Belki,HAYIR,Evet,Yüksek,HAYIR,Belki,Evet
+20-25,Dişi,Öğrenci,Her gün dışarı çık,Evet,Evet,Evet,Belki,Belki,Düşük,Evet,Evet,Evet
+16-20,Dişi,İşletme,Her gün dışarı çık,Evet,Evet,HAYIR,HAYIR,Evet,Orta,Evet,Belki,Belki
+16-20,Erkek,Öğrenci,15-30 gün,Evet,HAYIR,Evet,Belki,Belki,Orta,Evet,Belki,HAYIR
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,HAYIR,Evet,HAYIR,HAYIR,HAYIR,Orta,HAYIR,HAYIR,Belki
+16-20,Erkek,Kurumsal,1-14 gün,Belki,Evet,Belki,HAYIR,Evet,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Erkek,Ev hanımı,2 aydan fazla,HAYIR,Belki,HAYIR,Belki,Belki,Yüksek,Evet,HAYIR,Belki
+20-25,Erkek,Diğerleri,31-60 gün,Belki,Evet,Evet,HAYIR,Evet,Düşük,HAYIR,Belki,Belki
+20-25,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Evet,Belki,Evet,Belki,Düşük,Evet,Evet,Belki
+30-,Erkek,Kurumsal,2 aydan fazla,Belki,HAYIR,Evet,HAYIR,HAYIR,Düşük,HAYIR,Evet,Belki
+25-30,Erkek,Öğrenci,1-14 gün,Belki,HAYIR,Evet,HAYIR,HAYIR,Düşük,HAYIR,Belki,Belki
+16-20,Dişi,Öğrenci,15-30 gün,Belki,Evet,Belki,HAYIR,Evet,Yüksek,HAYIR,Evet,HAYIR
+16-20,Erkek,Ev hanımı,15-30 gün,Belki,Evet,Belki,Belki,Belki,Düşük,HAYIR,HAYIR,Belki
+30-,Erkek,Ev hanımı,31-60 gün,Evet,Evet,HAYIR,Evet,Belki,Orta,HAYIR,Evet,Belki
+25-30,Dişi,Öğrenci,15-30 gün,HAYIR,Belki,Evet,Evet,Belki,Orta,Evet,Evet,Belki
+25-30,Erkek,Ev hanımı,2 aydan fazla,HAYIR,HAYIR,Belki,Belki,Belki,Orta,HAYIR,Evet,HAYIR
+20-25,Erkek,İşletme,2 aydan fazla,Belki,HAYIR,Evet,Belki,Belki,Orta,HAYIR,HAYIR,HAYIR
+25-30,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Belki,Belki,HAYIR,Evet,Yüksek,HAYIR,Evet,Belki
+30-,Erkek,Ev hanımı,31-60 gün,Belki,Evet,Evet,HAYIR,Belki,Yüksek,HAYIR,HAYIR,Belki
+16-20,Dişi,Diğerleri,Her gün dışarı çık,Belki,HAYIR,Evet,Evet,HAYIR,Yüksek,Evet,Evet,HAYIR
+30-,Dişi,Öğrenci,2 aydan fazla,Belki,Belki,Belki,HAYIR,HAYIR,Orta,Evet,HAYIR,HAYIR
+16-20,Erkek,Diğerleri,31-60 gün,HAYIR,Belki,HAYIR,HAYIR,Evet,Düşük,Evet,Belki,Belki
+20-25,Erkek,İşletme,31-60 gün,HAYIR,Belki,HAYIR,Belki,Evet,Yüksek,Evet,HAYIR,HAYIR
+20-25,Erkek,Öğrenci,31-60 gün,Evet,Belki,Belki,Belki,Belki,Düşük,HAYIR,Evet,Evet
+25-30,Erkek,İşletme,2 aydan fazla,Evet,Evet,Evet,Belki,HAYIR,Orta,HAYIR,HAYIR,Belki
+16-20,Dişi,Öğrenci,1-14 gün,HAYIR,Evet,Evet,HAYIR,HAYIR,Düşük,Evet,Belki,Belki
+25-30,Dişi,Öğrenci,15-30 gün,HAYIR,Evet,Belki,Evet,HAYIR,Orta,Evet,Belki,HAYIR
+30-,Dişi,Ev hanımı,Her gün dışarı çık,Evet,Belki,HAYIR,HAYIR,HAYIR,Düşük,HAYIR,HAYIR,Evet
+25-30,Erkek,Öğrenci,Her gün dışarı çık,Belki,Evet,Belki,HAYIR,Belki,Yüksek,Evet,Belki,HAYIR
+20-25,Erkek,Diğerleri,Her gün dışarı çık,Evet,HAYIR,Evet,HAYIR,Belki,Orta,Evet,HAYIR,Belki
+30-,Dişi,Ev hanımı,1-14 gün,Evet,Evet,HAYIR,Evet,Belki,Yüksek,HAYIR,Evet,Evet
+30-,Erkek,Kurumsal,15-30 gün,HAYIR,Belki,HAYIR,Belki,Evet,Orta,HAYIR,Belki,HAYIR
+25-30,Dişi,Diğerleri,Her gün dışarı çık,Evet,HAYIR,Belki,HAYIR,Belki,Yüksek,Evet,Belki,HAYIR
+25-30,Erkek,Öğrenci,31-60 gün,Evet,Belki,Belki,Belki,HAYIR,Yüksek,HAYIR,Evet,Belki
+16-20,Erkek,Ev hanımı,Her gün dışarı çık,HAYIR,Belki,HAYIR,Evet,Evet,Orta,HAYIR,HAYIR,Belki
+16-20,Erkek,Öğrenci,1-14 gün,HAYIR,HAYIR,HAYIR,HAYIR,HAYIR,Düşük,Evet,Evet,Belki
+16-20,Erkek,İşletme,2 aydan fazla,Belki,Belki,Belki,Belki,Belki,Düşük,HAYIR,HAYIR,Belki
+25-30,Dişi,Öğrenci,1-14 gün,Belki,HAYIR,Belki,Belki,Evet,Düşük,HAYIR,Evet,HAYIR
+16-20,Erkek,Ev hanımı,15-30 gün,Belki,Evet,HAYIR,Evet,Evet,Orta,HAYIR,HAYIR,Belki
+16-20,Dişi,Kurumsal,Her gün dışarı çık,Evet,HAYIR,HAYIR,HAYIR,HAYIR,Orta,Evet,Belki,Belki
+16-20,Dişi,Öğrenci,2 aydan fazla,Evet,Belki,Belki,Belki,Belki,Yüksek,HAYIR,Belki,HAYIR
+30-,Dişi,Diğerleri,2 aydan fazla,Evet,Belki,HAYIR,Evet,Evet,Orta,HAYIR,HAYIR,HAYIR
+30-,Erkek,İşletme,15-30 gün,Evet,HAYIR,Belki,Evet,Belki,Yüksek,HAYIR,HAYIR,HAYIR
+25-30,Erkek,Öğrenci,Her gün dışarı çık,Belki,HAYIR,Belki,HAYIR,Belki,Yüksek,HAYIR,Evet,HAYIR
+25-30,Erkek,Kurumsal,1-14 gün,Belki,HAYIR,Belki,Belki,HAYIR,Düşük,HAYIR,Evet,Belki
+20-25,Dişi,İşletme,15-30 gün,Belki,Evet,HAYIR,Evet,Evet,Orta,Evet,HAYIR,Evet
+25-30,Erkek,Öğrenci,31-60 gün,Belki,HAYIR,Evet,Belki,Evet,Yüksek,Evet,Evet,Belki
+16-20,Dişi,Ev hanımı,Her gün dışarı çık,Belki,Evet,Evet,HAYIR,HAYIR,Orta,HAYIR,HAYIR,HAYIR
+30-,Dişi,Diğerleri,1-14 gün,Belki,Belki,Evet,Evet,Belki,Orta,Evet,Belki,HAYIR
+30-,Erkek,Diğerleri,2 aydan fazla,Belki,Evet,Belki,Evet,Evet,Yüksek,Evet,Evet,HAYIR
+20-25,Erkek,Öğrenci,2 aydan fazla,Evet,Belki,Belki,HAYIR,Belki,Orta,Evet,Belki,Belki
+16-20,Erkek,Kurumsal,31-60 gün,HAYIR,HAYIR,Belki,Evet,Belki,Orta,Evet,HAYIR,Evet
+20-25,Erkek,Kurumsal,Her gün dışarı çık,HAYIR,Evet,HAYIR,Evet,Evet,Orta,HAYIR,Evet,Belki
+20-25,Erkek,Diğerleri,1-14 gün,Evet,Evet,HAYIR,Evet,Belki,Düşük,HAYIR,Belki,Belki
+20-25,Erkek,Öğrenci,2 aydan fazla,Evet,Belki,Belki,HAYIR,Evet,Yüksek,Evet,Evet,Belki
+16-20,Erkek,İşletme,15-30 gün,HAYIR,HAYIR,Belki,HAYIR,Belki,Düşük,Evet,HAYIR,Belki
+30-,Dişi,Diğerleri,15-30 gün,HAYIR,HAYIR,HAYIR,HAYIR,Evet,Düşük,Evet,HAYIR,Belki
