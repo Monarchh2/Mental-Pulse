@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mental-pulse"
+version = "0.2.0"
+description = "Ruh sağlığı ve depresif belirti taraması için yeniden üretilebilir veri kalitesi denetimi, sızıntısız makine öğrenmesi ve Türkçe dilsel özellik çıkarım araç takımı"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24,<3",
+    "pandas>=2.0,<4",
+    "scipy>=1.11,<2",
+    "scikit-learn>=1.4,<2",
+    "imbalanced-learn>=0.12,<1",
+    "matplotlib>=3.8,<4",
+    "seaborn>=0.13,<1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "jupyter>=1.0",
+    "nbconvert>=7.0",
+    "nbformat>=5.9",
+    "xgboost>=2.0",
+]
+
+[project.scripts]
+mental-pulse = "mental_pulse.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
